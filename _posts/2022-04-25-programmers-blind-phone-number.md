@@ -5,7 +5,7 @@ excerpt: "핸드폰 번호 가리기"
 categories:
   - Programmers
 tags:
-  - [algorithms]
+  - [java, algorithms]
 
 permalink: /programmers/programmers-blind-phone-number/
 

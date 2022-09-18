@@ -5,7 +5,7 @@ excerpt: "Utopian Tree"
 categories:
   - HackerRank
 tags:
-  - [algorithms]
+  - [java, algorithms]
 
 permalink: /hackerrank/hackerrank-utopian-tree/
 

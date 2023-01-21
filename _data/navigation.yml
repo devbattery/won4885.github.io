@@ -1,0 +1,41 @@
+# main links
+main:
+  - title: "Home"
+    url: https://won4885.github.io/
+
+  - title: "Category"
+    url: /categories/
+
+  - title: "GitHub"
+    url: https://github.com/won4885
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+categories:
+  - title: "💻 Algorithms"
+    children:
+      - title: "LeetCode"
+        url: /categories/leetcode/
+      - title: "HackerRank"
+        url: /categories/hackerrank/
+      - title: "Codeforces"
+        url: /categories/codeforces/
+      - title: "Programmers"
+        url: /categories/programmers/
+      - title: "Baekjoon"
+        url: /categories/baekjoon/
+      - title: "Inflearn"
+        url: /categories/inflearn/
+  - title: "💬 recap" 
+    children:
+      - title: "Data Structure"
+        url: /categories/data-structure/
+  - title: "👨‍💻 CodeSquad" 
+    children:
+      - title: "TIL"
+        url: /categories/til/

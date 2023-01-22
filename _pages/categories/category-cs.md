@@ -1,9 +1,9 @@
 ---
-title: "Computer Science"
+title: "CS"
 layout: category
 permalink: /categories/cs/
 author_profile: true
-taxonomy: Computer Science
+taxonomy: CS
 sidebar:
   nav: "categories"
 ---

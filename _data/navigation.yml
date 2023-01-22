@@ -37,7 +37,7 @@ categories:
         url: /categories/data-structure/
   - title: "👨‍💻 CodeSquad" 
     children:
-      - title: "Computer Science"
-        url: /categories/c/
+      - title: "CS"
+        url: /categories/cs/
       - title: "TIL"
         url: /categories/til/

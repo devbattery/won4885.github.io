@@ -3,14 +3,14 @@ main:
   - title: "Home"
     url: https://won4885.github.io/
 
-  - title: "Category"
-    url: /categories/
-
   - title: "GitHub"
     url: https://github.com/won4885
 
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Category"
+    url: /categories/
+
+  - title: "Tags"
+    url: /tags/
 
   # - title: "Categories"
   #   url: /categories/

@@ -31,6 +31,8 @@ categories:
         url: /categories/baekjoon/
       - title: "Inflearn"
         url: /categories/inflearn/
+      - title: "이코테"
+        url: /categories/ecote/
   - title: "💬 recap" 
     children:
       - title: "Data Structure"

@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 두 정수 사이의 합"
+title: "[Programmers] 두 정수 사이의 합 (Java)"
 excerpt: "두 정수 사이의 합"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-add-two-int/
 

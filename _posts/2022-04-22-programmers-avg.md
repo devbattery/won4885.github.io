@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 평균 구하기"
+title: "[Programmers] 평균 구하기 (Java)"
 excerpt: "평균 구하기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-avg/
 

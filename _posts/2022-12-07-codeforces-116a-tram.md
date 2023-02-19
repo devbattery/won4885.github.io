@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 116A - Tram"
+title: "[Codeforces] 116A - Tram (Java)"
 excerpt: "Tram"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-116a-tram/
 

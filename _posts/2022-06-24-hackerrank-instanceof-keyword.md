@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Instanceof keyword"
+title: "[HackerRank] Java Instanceof keyword"
 excerpt: "Java Instanceof keyword"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-instanceof-keyword/
 

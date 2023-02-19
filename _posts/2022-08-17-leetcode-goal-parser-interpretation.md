@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1678. Goal Parser Interpretation"
+title: "[LeetCode] 1678. Goal Parser Interpretation (Java)"
 excerpt: "Goal Parser Interpretation"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-goal-parser-interpretation/
 

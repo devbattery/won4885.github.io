@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 208A - Dubstep"
+title: "[Codeforces] 208A - Dubstep (Java)"
 excerpt: "Dubstep"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-208a-dubstep/
 

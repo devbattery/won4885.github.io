@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1512. Number of Good Pairs"
+title: "[LeetCode] 1512. Number of Good Pairs (Java)"
 excerpt: "Number of Good Pairs"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-number-of-good-pairs/
 

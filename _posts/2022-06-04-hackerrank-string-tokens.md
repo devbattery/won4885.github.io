@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java String Tokens"
+title: "[HackerRank] Java String Tokens"
 excerpt: "Java String Tokens"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-string-tokens/
 

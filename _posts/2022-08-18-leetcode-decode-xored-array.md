@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1720. Decode XORed Array"
+title: "[LeetCode] 1720. Decode XORed Array (Java)"
 excerpt: "Decode XORed Array"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-decode-xored-array/
 

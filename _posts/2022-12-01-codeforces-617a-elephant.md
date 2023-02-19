@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 617A - Elephant"
+title: "[Codeforces] 617A - Elephant (Java)"
 excerpt: "Elephant"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-617a-elephant/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers x만큼 간격이 있는 n개의 숫자"
+title: "[Programmers] x만큼 간격이 있는 n개의 숫자 (Java)"
 excerpt: "x만큼 간격이 있는 n개의 숫자"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-x-to-n/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Extra Long Factorials"
+title: "[HackerRank] Extra Long Factorials (Java)"
 excerpt: "Extra Long Factorials"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-extra-long-factorials/
 

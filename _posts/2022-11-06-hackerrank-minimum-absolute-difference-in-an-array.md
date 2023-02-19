@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Minimum Absolute Difference in an Array"
+title: "[HackerRank] Minimum Absolute Difference in an Array (Java)"
 excerpt: "Minimum Absolute Difference in an Array"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-minimum-absolute-difference-in-an-array/
 

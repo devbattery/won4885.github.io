@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1119. Remove Vowels from a String"
+title: "[LeetCode] 1119. Remove Vowels from a String (Java)"
 excerpt: "Remove Vowels from a String"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-remove-vowels/
 

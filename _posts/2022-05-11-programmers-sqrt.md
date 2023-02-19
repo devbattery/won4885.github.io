@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 정수 제곱근 판별"
+title: "[Programmers] 정수 제곱근 판별 (Java)"
 excerpt: "정수 제곱근 판별"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-sqrt/
 

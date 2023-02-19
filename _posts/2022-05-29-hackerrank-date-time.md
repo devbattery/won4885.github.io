@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Date and Time"
+title: "[HackerRank] Java Date and Time"
 excerpt: "Java Date and Time"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-date-time/
 

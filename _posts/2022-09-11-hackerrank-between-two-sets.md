@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Between Two Sets"
+title: "[HackerRank] Between Two Sets (Java)"
 excerpt: "Between Two Sets"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-between-two-sets/
 

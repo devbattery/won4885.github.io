@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Dequeue"
+title: "[HackerRank] Java Dequeue"
 excerpt: "Java Dequeue"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-dequeue/
 

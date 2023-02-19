@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 677A - Vanya and Fence"
+title: "[Codeforces] 677A - Vanya and Fence (Java)"
 excerpt: "Vanya and Fence"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-677a-vanya-and-fence/
 

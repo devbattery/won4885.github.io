@@ -5,7 +5,7 @@ excerpt: "힙과 트리 정리"
 categories:
   - Data Structure
 tags:
-  - [data_structure]
+  - [data-structure]
 
 permalink: /data-structure/recap2-heap-tree/
 

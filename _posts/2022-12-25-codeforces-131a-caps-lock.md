@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 131A - cAPS lOCK"
+title: "[Codeforces] 131A - cAPS lOCK (Java)"
 excerpt: "cAPS lOCK"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-131a-caps-lock/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 263A - Beautiful Matrix"
+title: "[Codeforces] 263A - Beautiful Matrix (Java)"
 excerpt: "Beautiful Matrix"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-263a-beautiful-matrix/
 

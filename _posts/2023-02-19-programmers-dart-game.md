@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 다트 게임"
+title: "[Programmers] 다트 게임 (Java)"
 excerpt: "2018 KAKAO BLIND RECRUITMENT"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-dart-game/
 

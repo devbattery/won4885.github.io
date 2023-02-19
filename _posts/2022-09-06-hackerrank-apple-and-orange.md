@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Apple and Orange"
+title: "[HackerRank] Apple and Orange (Java)"
 excerpt: "Apple and Orange"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-apple-and-orange/
 

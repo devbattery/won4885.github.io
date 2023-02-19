@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 318A - Even Odds"
+title: "[Codeforces] 318A - Even Odds (Java)"
 excerpt: "Even Odds"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-318a-even-odds/
 

@@ -5,7 +5,7 @@ excerpt: "빅 오 표기법 정리"
 categories:
   - Data Structure
 tags:
-  - [data_structure]
+  - [data-structure]
 
 permalink: /data-structure/recap2-big-oh/
 

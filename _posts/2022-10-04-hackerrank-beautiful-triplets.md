@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Beautiful Triplets"
+title: "[HackerRank] Beautiful Triplets (Java)"
 excerpt: "Beautiful Triplets"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-beautiful-triplets/
 

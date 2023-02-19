@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 266A - Stones on the Table"
+title: "[Codeforces] 266A - Stones on the Table (Java)"
 excerpt: "Stones on the Table"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-266a-stones-one-the-table/
 

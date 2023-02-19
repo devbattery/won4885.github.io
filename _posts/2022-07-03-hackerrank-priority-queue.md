@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Priority Queue"
+title: "[HackerRank] Java Priority Queue"
 excerpt: "Java Priority Queue"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-priority-queue/
 

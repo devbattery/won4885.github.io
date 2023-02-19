@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java End-of-file"
+title: "[HackerRank] Java End-of-file"
 excerpt: "Java End-of-file"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-end-of-file/
 

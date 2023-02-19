@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 직사각형 별찍기"
+title: "[Programmers] 직사각형 별찍기 (Java)"
 excerpt: "직사각형 별찍기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-square-star/
 

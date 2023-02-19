@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Pangrams"
+title: "[HackerRank] Pangrams (Java)"
 excerpt: "Pangrams"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-pangrams/
 

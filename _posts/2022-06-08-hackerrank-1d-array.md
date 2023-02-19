@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java 1D Array"
+title: "[HackerRank] Java 1D Array"
 excerpt: "Java 1D Array"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-1d-array/
 

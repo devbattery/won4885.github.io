@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Drawing Book"
+title: "[HackerRank] Drawing Book (Java)"
 excerpt: "Drawing Book"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-drawing-book/
 

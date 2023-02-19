@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1221. Split a String in Balanced Strings"
+title: "[LeetCode] 1221. Split a String in Balanced Strings (Java)"
 excerpt: "Split a String in Balanced Strings"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-split-a-string-in-balanced-strings/
 

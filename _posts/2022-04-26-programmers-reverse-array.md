@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 자연수 뒤집어 배열로 만들기"
+title: "[Programmers] 자연수 뒤집어 배열로 만들기 (Java)"
 excerpt: "자연수 뒤집어 배열로 만들기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-reverse-array/
 

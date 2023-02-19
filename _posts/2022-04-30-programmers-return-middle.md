@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 가운데 글자 가져오기"
+title: "[Programmers] 가운데 글자 가져오기 (Java)"
 excerpt: "가운데 글자 가져오기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-str-to-int/
 

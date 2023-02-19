@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java String Reverse"
+title: "[HackerRank] Java String Reverse"
 excerpt: "Java String Reverse"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-string-reverse/
 

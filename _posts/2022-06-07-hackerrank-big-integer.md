@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java BigInteger"
+title: "[HackerRank] Java BigInteger"
 excerpt: "Java BigInteger"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-big-integer/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 짝수와 홀수"
+title: "[Programmers] 짝수와 홀수 (Java)"
 excerpt: "짝수와 홀수"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-even-odd/
 

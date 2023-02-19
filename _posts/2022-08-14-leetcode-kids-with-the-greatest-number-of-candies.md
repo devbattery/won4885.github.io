@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1431. Kids With the Greatest Number of Candies"
+title: "[LeetCode] 1431. Kids With the Greatest Number of Candies (Java)"
 excerpt: "Kids With the Greatest Number of Candies"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-kids-with-the-greatest-number-of-candies/
 

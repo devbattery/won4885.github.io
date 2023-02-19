@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Simple Array Sum"
+title: "[HackerRank] Simple Array Sum (Java)"
 excerpt: "Simple Array Sum"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-simple-array-sum/
 

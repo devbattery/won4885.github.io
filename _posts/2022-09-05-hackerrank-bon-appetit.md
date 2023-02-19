@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Bill Division"
+title: "[HackerRank] Bill Division (Java)"
 excerpt: "Bill Division"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-bon-appetit/
 

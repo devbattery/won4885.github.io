@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Loops II"
+title: "[HackerRank] Java Loops II"
 excerpt: "Java Loops II"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-loops-2/
 

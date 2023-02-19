@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 실패율"
+title: "[Programmers] 실패율 (Java)"
 excerpt: "2019 KAKAO BLIND RECRUITMENT"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-fail/
 

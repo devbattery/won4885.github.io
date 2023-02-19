@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 83. Remove Duplicates from Sorted List"
+title: "[LeetCode] 83. Remove Duplicates from Sorted List (Java)"
 excerpt: "Remove Duplicates from Sorted List"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-remove-duplicates-from-sorted-list/
 

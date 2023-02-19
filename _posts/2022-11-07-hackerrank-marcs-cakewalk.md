@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Marc's Cakewalk"
+title: "[HackerRank] Marc's Cakewalk (Java)"
 excerpt: "Marc's Cakewalk"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-marcs-cakewalk/
 

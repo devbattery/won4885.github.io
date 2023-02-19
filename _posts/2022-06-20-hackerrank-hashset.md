@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java HashSet"
+title: "[HackerRank] Java HashSet"
 excerpt: "Java HashSet"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-hashset/
 

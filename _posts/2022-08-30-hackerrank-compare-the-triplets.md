@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Compare the Triplets"
+title: "[HackerRank] Compare the Triplets (Java)"
 excerpt: "Compare the Triplets"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-compare-the-triplets/
 

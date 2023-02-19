@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Subarray"
+title: "[HackerRank] Java Subarray"
 excerpt: "Java Subarray"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-subarray/
 

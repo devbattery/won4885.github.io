@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 문자열 다루기 기본"
+title: "[Programmers] 문자열 다루기 기본 (Java)"
 excerpt: "문자열 다루기 기본"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-str-basic/
 

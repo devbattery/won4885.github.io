@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 문자열을 정수로 바꾸기"
+title: "[Programmers] 문자열을 정수로 바꾸기 (Java)"
 excerpt: "문자열을 정수로 바꾸기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-str-to-int/
 

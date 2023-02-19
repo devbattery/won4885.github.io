@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Tower Breakers"
+title: "[HackerRank] Tower Breakers (Java)"
 excerpt: "Tower Breakers"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-tower-breakers-1/
 

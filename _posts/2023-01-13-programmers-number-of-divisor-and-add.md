@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 약수의 개수와 덧셈"
+title: "[Programmers] 약수의 개수와 덧셈 (Java)"
 excerpt: "약수의 개수와 덧셈"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-number-of-divisor-and-add/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Permuting Two Arrays"
+title: "[HackerRank] Permuting Two Arrays (Java)"
 excerpt: "Permuting Two Arrays"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-two-arrays/
 

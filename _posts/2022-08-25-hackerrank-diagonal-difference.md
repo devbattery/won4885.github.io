@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Diagonal Difference"
+title: "[HackerRank] Diagonal Difference (Java)"
 excerpt: "Diagonal Difference"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-diagonal-difference/
 

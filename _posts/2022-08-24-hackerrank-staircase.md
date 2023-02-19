@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Staircase"
+title: "[HackerRank] Staircase (Java)"
 excerpt: "Staircase"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-staircase/
 

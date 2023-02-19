@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1480. Running Sum of 1d Array"
+title: "[LeetCode] 1480. Running Sum of 1d Array (Java)"
 excerpt: "Running Sum of 1d Array"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-running-sum-of-1d-array/
 

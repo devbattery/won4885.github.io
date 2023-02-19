@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Cut the sticks"
+title: "[HackerRank] Cut the sticks (Java)"
 excerpt: "Cut the sticks"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-cut-the-sticks/
 

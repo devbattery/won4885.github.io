@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Subarray Division"
+title: "[HackerRank] Subarray Division (Java)"
 excerpt: "Subarray Division"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-the-birthday-bar/
 

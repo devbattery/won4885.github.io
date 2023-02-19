@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 771. Jewels and Stones"
+title: "[LeetCode] 771. Jewels and Stones (Java)"
 excerpt: "Jewels and Stones"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-jewels-and-stones/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 96A - Football"
+title: "[Codeforces] 96A - Football (Java)"
 excerpt: "Football"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-96a-football/
 

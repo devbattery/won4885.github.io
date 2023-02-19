@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank A Very Big Sum"
+title: "[HackerRank] A Very Big Sum (Java)"
 excerpt: "A Very Big Sum"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-a-very-big-sum/
 

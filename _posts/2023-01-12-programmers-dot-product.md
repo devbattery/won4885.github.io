@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 내적"
+title: "[Programmers] 내적 (Java)"
 excerpt: "내적"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-dot-product/
 

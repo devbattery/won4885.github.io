@@ -5,7 +5,7 @@ excerpt: "Linked List 정리"
 categories:
   - Data Structure
 tags:
-  - [data_structure]
+  - [data-structure]
 
 permalink: /data-structure/recap1-linked-list/
 

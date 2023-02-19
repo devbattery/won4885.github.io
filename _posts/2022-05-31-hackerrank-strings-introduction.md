@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Strings Introduction"
+title: "[HackerRank] Java Strings Introduction"
 excerpt: "Java Strings Introduction"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-strings-introduction/
 

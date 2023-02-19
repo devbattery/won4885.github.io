@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1773. Count Items Matching a Rule"
+title: "[LeetCode] 1773. Count Items Matching a Rule (Java)"
 excerpt: "Count Items Matching a Rule"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-count-items-matching-a-rule/
 

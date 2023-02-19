@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Beautiful Binary String"
+title: "[HackerRank] Beautiful Binary String (Java)"
 excerpt: "Beautiful Binary String"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-beautiful-binary-string/
 

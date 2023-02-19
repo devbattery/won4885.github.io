@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1859. Sorting the Sentence"
+title: "[LeetCode] 1859. Sorting the Sentence (Java)"
 excerpt: "Sorting the Sentence"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-sorting-the-sentence/
 

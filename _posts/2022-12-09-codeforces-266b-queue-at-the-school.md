@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 266B - Queue at the School"
+title: "[Codeforces] 266B - Queue at the School (Java)"
 excerpt: "Queue at the School"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-266b-queue-at-the-school/
 

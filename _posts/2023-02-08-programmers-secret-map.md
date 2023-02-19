@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers [1차] 비밀지도"
-excerpt: "[1차] 비밀지도"
+title: "[Programmers] [1차] 비밀지도 (Java)"
+excerpt: "2018 KAKAO BLIND RECRUITMENT"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-secret-map/
 

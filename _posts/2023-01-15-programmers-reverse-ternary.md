@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 3진법 뒤집기"
+title: "[Programmers] 3진법 뒤집기 (Java)"
 excerpt: "3진법 뒤집기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-reverse-ternary/
 

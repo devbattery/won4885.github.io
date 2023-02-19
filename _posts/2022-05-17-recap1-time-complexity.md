@@ -5,7 +5,7 @@ excerpt: "시간 복잡도 정리"
 categories:
   - Data Structure
 tags:
-  - [data_structure]
+  - [data-structure]
 
 permalink: /data-structure/recap1-time-complexity/
 

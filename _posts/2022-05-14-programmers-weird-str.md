@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 이상한 문자 만들기"
+title: "[Programmers] 이상한 문자 만들기 (Java)"
 excerpt: "이상한 문자 만들기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-weird-str/
 

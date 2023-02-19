@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 4A - Watermelon"
+title: "[Codeforces] 4A - Watermelon (Java)"
 excerpt: "Watermelon"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-4a-watermelon/
 

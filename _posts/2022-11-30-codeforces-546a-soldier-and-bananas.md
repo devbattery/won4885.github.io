@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 546A - Soldier and Bananas"
+title: "[Codeforces] 546A - Soldier and Bananas (Java)"
 excerpt: "Soldier and Bananas"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-546a-soldier-and-bananas/
 

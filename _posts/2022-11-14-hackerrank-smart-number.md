@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Smart Number"
+title: "[HackerRank] Smart Number (Java)"
 excerpt: "Smart Number"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-smart-number/
 

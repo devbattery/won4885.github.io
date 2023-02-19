@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1528. Shuffle String"
+title: "[LeetCode] 1528. Shuffle String (Java)"
 excerpt: "Shuffle String"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-shuffle-string/
 

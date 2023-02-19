@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Day of the Programmer"
+title: "[HackerRank] Day of the Programmer (Java)"
 excerpt: "Day of the Programmer"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-day-of-the-programmer/
 

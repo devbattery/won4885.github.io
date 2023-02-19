@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Angry Professor"
+title: "[HackerRank] Angry Professor (Java)"
 excerpt: "Angry Professor"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-angry-professor/
 

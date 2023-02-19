@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Luck Balance"
+title: "[HackerRank] Luck Balance (Java)"
 excerpt: "Luck Balance"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-luck-balance/
 

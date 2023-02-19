@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Primality Test"
+title: "[HackerRank] Java Primality Test"
 excerpt: "Java Primality Test"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-primality-test/
 

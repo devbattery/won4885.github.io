@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 수박수박수박수박수박수?"
+title: "[Programmers] 수박수박수박수박수박수? (Java)"
 excerpt: "수박수박수박수박수박수?"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-watermelon/
 

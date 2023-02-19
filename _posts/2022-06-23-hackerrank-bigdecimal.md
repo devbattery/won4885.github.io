@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java BigDecimal"
+title: "[HackerRank] Java BigDecimal"
 excerpt: "Java BigDecimal"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-bigdecimal/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1281. Subtract the Product and Sum of Digits of an Integer"
+title: "[LeetCode] 1281. Subtract the Product and Sum of Digits of an Integer (Java)"
 excerpt: "Subtract the Product and Sum of Digits of an Integer"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-subtract-the-product-and-sum-of-digits-of-an-integer/
 

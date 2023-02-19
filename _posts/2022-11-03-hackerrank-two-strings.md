@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Two Strings"
+title: "[HackerRank] Two Strings (Java)"
 excerpt: "Two Strings"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-two-strings/
 

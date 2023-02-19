@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java ArrayList"
+title: "[HackerRank] Java ArrayList"
 excerpt: "Java ArrayList"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-arraylist/
 

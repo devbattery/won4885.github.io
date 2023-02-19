@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Maximizing XOR"
+title: "[HackerRank] Maximizing XOR (Java)"
 excerpt: "Maximizing XOR"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-maximizing-xor/
 

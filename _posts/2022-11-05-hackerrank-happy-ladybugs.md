@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Happy Ladybugs"
+title: "[HackerRank] Happy Ladybugs (Java)"
 excerpt: "Happy Ladybugs"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-happy-ladybugs/
 

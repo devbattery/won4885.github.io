@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 41A - Translation"
+title: "[Codeforces] 41A - Translation (Java)"
 excerpt: "Translation"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithm]
 
 permalink: /categories/codeforces/codeforces-41a-translation/
 

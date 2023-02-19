@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 나머지가 1이 되는 수 찾기"
+title: "[Programmers] 나머지가 1이 되는 수 찾기 (Java)"
 excerpt: "나머지가 1이 되는 수 찾기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-find-remainder/
 

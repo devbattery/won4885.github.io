@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Regex 2 - Duplicate Words"
+title: "[HackerRank] Java Regex 2 - Duplicate Words"
 excerpt: "Java Regex 2 - Duplicate Words"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-regex-2-duplicate-words/
 

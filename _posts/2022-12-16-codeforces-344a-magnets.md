@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 344A - Magnets"
+title: "[Codeforces] 344A - Magnets (Java)"
 excerpt: "Magnets"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-344a-magnets/
 

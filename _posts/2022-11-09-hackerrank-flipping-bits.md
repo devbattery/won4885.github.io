@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Flipping bits"
+title: "[HackerRank] Flipping bits (Java)"
 excerpt: "Flipping bits"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-flipping-bits/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 231A - Team"
+title: "[Codeforces] 231A - Team (Java)"
 excerpt: "Team"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-231a-team/
 

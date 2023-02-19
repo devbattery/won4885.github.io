@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 486A - Calculating Function"
+title: "[Codeforces] 486A - Calculating Function (Java)"
 excerpt: "Calculating Function"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-486a-calculating-function/
 

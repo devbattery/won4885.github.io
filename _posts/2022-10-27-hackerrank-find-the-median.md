@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Find the Median"
+title: "[HackerRank] Find the Median (Java)"
 excerpt: "Find the Median"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-find-the-median/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Migratory Birds"
+title: "[HackerRank] Migratory Birds (Java)"
 excerpt: "Migratory Birds"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-migratory-birds/
 

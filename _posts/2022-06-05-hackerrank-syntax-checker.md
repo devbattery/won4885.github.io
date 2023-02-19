@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Syntax Checker"
+title: "[HackerRank] Java Syntax Checker"
 excerpt: "Java Syntax Checker"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-syntax-checker/
 

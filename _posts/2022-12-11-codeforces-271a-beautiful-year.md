@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 271A - Beautiful Year"
+title: "[Codeforces] 271A - Beautiful Year (Java)"
 excerpt: "Beautiful Year"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-271a-beautiful-year/
 

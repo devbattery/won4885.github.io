@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 59A - Word"
+title: "[Codeforces] 59A - Word (Java)"
 excerpt: "Word"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-59a-word/
 

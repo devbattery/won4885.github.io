@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 467A - George and Accommodation"
+title: "[Codeforces] 467A - George and Accommodation (Java)"
 excerpt: "George and Accommodation"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-467a-george-and-accommodation/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1108. Defanging an IP Address"
+title: "[LeetCode] 1108. Defanging an IP Address (Java)"
 excerpt: "Defanging an IP Address"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-defanging-an-ip-address/
 

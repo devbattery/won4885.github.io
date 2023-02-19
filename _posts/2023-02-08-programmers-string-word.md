@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 숫자 문자열과 영단어"
-excerpt: "숫자 문자열과 영단어"
+title: "[Programmers] 숫자 문자열과 영단어"
+excerpt: "2021 카카오 채용연계형 인턴십"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-string-word/
 

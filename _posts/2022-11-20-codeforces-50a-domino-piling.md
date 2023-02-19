@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 50A - Domino piling"
+title: "[Codeforces] 50A - Domino piling (Java)"
 excerpt: "Domino piling"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-50a-domino-piling/
 

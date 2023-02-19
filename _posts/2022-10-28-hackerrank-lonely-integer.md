@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Lonely Integer"
+title: "[HackerRank] Lonely Integer (Java)"
 excerpt: "Lonely Integer"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-lonely-integer/
 

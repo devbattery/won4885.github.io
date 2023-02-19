@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Number Line Jumps"
-excerpt: "Number Line Jumps"
+title: "[HackerRank] Number Line Jumps (Java)"
+excerpt: "Number Line Jumps, implementation"
 
 categories:
   - HackerRank
 tags:
-  - [implementation]
+  - [algorithms, implementation]
 
 permalink: /hackerrank/hackerrank-number-line-jumps/
 

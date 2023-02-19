@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 282A - Bit++"
+title: "[Codeforces] 282A - Bit++ (Java)"
 excerpt: "Bit++"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-282a-bit++/
 

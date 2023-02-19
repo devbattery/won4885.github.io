@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Birthday Cake Candles"
+title: "[HackerRank] Birthday Cake Candles (Java)"
 excerpt: "Birthday Cake Candles"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-birthday-cake-candles/
 

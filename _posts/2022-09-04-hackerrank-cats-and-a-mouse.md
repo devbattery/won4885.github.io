@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Cats and a Mouse"
+title: "[HackerRank] Cats and a Mouse (Java)"
 excerpt: "Cats and a Mouse"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-cats-and-a-mouse/
 

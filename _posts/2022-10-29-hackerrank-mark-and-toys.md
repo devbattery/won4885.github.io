@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Mark and Toys"
+title: "[HackerRank] Mark and Toys (Java)"
 excerpt: "Mark and Toys"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-mark-and-toys/
 

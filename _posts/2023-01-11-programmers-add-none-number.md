@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 없는 숫자 더하기"
+title: "[Programmers] 없는 숫자 더하기 (Java)"
 excerpt: "없는 숫자 더하기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-add-none-number/
 

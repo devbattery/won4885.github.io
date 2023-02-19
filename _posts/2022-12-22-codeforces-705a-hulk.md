@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 705A - Hulk"
+title: "[Codeforces] 705A - Hulk (Java)"
 excerpt: "Hulk"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-705a-hulk/
 

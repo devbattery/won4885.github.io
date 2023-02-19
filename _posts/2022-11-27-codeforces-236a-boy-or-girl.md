@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 236A - Boy or Girl"
+title: "[Codeforces] 236A - Boy or Girl (Java)"
 excerpt: "Boy or Girl"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-236a-boy-or-girl/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Intro to Tutorial Challenges"
+title: "[HackerRank] Intro to Tutorial Challenges (Java)"
 excerpt: "Intro to Tutorial Challenges"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-tutorial-intro/
 

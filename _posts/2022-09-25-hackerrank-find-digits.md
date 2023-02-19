@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Find Digits"
+title: "[HackerRank] Find Digits (Java)"
 excerpt: "Find Digits"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-find-digits/
 

@@ -5,7 +5,7 @@ excerpt: "Translation"
 categories:
   - Codeforces
 tags:
-  - [algorithm]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-41a-translation/
 

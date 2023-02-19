@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Utopian Tree"
+title: "[HackerRank] Utopian Tree (Java)"
 excerpt: "Utopian Tree"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-utopian-tree/
 

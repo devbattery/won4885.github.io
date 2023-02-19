@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 서울에서 김서방 찾기"
+title: "[Programmers] 서울에서 김서방 찾기"
 excerpt: "서울에서 김서방 찾기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-find-kim/
 

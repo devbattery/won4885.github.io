@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Save the Prisoner!"
+title: "[HackerRank] Save the Prisoner! (Java)"
 excerpt: "Save the Prisoner!"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-save-the-prisoner/
 

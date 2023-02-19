@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 콜라츠 추측"
+title: "[Programmers] 콜라츠 추측 (Java)"
 excerpt: "콜라츠 추측"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-collatz/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Fair Rations"
+title: "[HackerRank] Fair Rations (Java)"
 excerpt: "Fair Rations"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-fair-rations/
 

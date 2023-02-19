@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 339A - Helpful Maths"
+title: "[Codeforces] 339A - Helpful Maths (Java)"
 excerpt: "Helpful Maths"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-339a-helpful-maths/
 

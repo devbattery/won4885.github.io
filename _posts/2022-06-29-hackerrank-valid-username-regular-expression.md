@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Valid Username Regular Expression"
+title: "[HackerRank] Valid Username Regular Expression"
 excerpt: "Valid Username Regular Expression"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-valid-username-regular-expression/
 

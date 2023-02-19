@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank CamelCase"
+title: "[HackerRank] CamelCase (Java)"
 excerpt: "CamelCase"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-camelcase/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1920. Build Array from Permutation"
+title: "[LeetCode] 1920. Build Array from Permutation (Java)"
 excerpt: "Build Array from Permutation"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-array-permutation/
 

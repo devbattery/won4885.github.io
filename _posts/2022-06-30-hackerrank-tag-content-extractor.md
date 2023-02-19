@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Tag Content Extractor"
+title: "[HackerRank] Tag Content Extractor"
 excerpt: "Tag Content Extractor"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-tag-content-extractor/
 

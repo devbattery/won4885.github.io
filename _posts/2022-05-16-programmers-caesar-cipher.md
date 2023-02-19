@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 시저 암호"
+title: "[Programmers] 시저 암호"
 excerpt: "시저 암호"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-caesar-cipher/
 

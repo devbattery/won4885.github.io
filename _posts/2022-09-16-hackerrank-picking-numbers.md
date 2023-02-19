@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Picking Numbers"
+title: "[HackerRank] Picking Numbers (Java)"
 excerpt: "Picking Numbers"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-picking-numbers/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Chocolate Feast"
+title: "[HackerRank] Chocolate Feast (Java)"
 excerpt: "Chocolate Feast"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-chocolate-feast/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Maximum Perimeter Triangle"
+title: "[HackerRank] Maximum Perimeter Triangle (Java)"
 excerpt: "Maximum Perimeter Triangle"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-maximum-perimeter-triangle/
 

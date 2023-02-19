@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Static Initializer Block"
+title: "[HackerRank] Java Static Initializer Block"
 excerpt: "Java Static Initializer Block"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-static-initializer-block/
 

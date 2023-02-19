@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 소수 찾기"
+title: "[Programmers] 소수 찾기 (Java)"
 excerpt: "소수 찾기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-find-prime/
 

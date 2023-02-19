@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Correctness and the Loop Invariant"
+title: "[HackerRank] Correctness and the Loop Invariant (Java)"
 excerpt: "Correctness and the Loop Invariant"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-correctness-invariant/
 

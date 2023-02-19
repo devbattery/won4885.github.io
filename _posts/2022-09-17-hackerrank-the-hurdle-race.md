@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank The Hurdle Race"
+title: "[HackerRank] The Hurdle Race (Java)"
 excerpt: "The Hurdle Race"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-the-hurdle-race/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 977A - Wrong Subtraction"
+title: "[Codeforces] 977A - Wrong Subtraction (Java)"
 excerpt: "Wrong Subtraction"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-977a-wrong-subtraction/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Lisa's Workbook"
+title: "[HackerRank] Lisa's Workbook (Java)"
 excerpt: "Lisa's Workbook"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-lisa-workbook/
 

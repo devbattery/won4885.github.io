@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Can You Access?"
+title: "[HackerRank] Can You Access?"
 excerpt: "Can You Access?"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-can-you-access/
 

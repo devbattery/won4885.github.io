@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 약수의 합"
+title: "[Programmers] 약수의 합 (Java)"
 excerpt: "약수의 합"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-sum-divisor/
 

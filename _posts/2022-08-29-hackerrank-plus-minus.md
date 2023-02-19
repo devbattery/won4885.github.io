@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Plus Minus"
+title: "[HackerRank] Plus Minus (Java)"
 excerpt: "Plus Minus"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-plus-minus/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank in a String!"
+title: "[HackerRank] in a String! (Java)"
 excerpt: "in a String!"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-in-a-string/
 

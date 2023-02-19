@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Running Time of Algorithms"
+title: "[HackerRank] Running Time of Algorithms (Java)"
 excerpt: "Running Time of Algorithms"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-runningtime/
 

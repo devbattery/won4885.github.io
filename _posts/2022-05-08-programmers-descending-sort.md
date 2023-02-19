@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 문자열 내림차순으로 배치하기"
+title: "[Programmers] 문자열 내림차순으로 배치하기 (Java)"
 excerpt: "문자열 내림차순으로 배치하기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-descending-sort/
 

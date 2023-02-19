@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 158A - Next Round"
+title: "[Codeforces] 158A - Next Round (Java)"
 excerpt: "Next Round"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-158a-next-round/
 

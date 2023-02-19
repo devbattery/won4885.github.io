@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Jumping on the Clouds: Revisited"
+title: "[HackerRank] Jumping on the Clouds: Revisited (Java)"
 excerpt: "Jumping on the Clouds: Revisited"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-jumping-on-the-clouds-revisited/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 1A - Theatre Square"
+title: "[Codeforces] 1A - Theatre Square (Java)"
 excerpt: "Theatre Square"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-1a-theatre-square/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Mini-Max Sum"
+title: "[HackerRank] Mini-Max Sum (Java)"
 excerpt: "Mini-Max Sum"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-mini-max-sum/
 

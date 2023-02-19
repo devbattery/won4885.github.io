@@ -5,7 +5,7 @@ excerpt: "스택과 큐 정리"
 categories:
   - Data Structure
 tags:
-  - [data_structure]
+  - [data-structure]
 
 permalink: /data-structure/recap2-stack-queue/
 

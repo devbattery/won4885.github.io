@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Modified Kaprekar Numbers"
+title: "[HackerRank] Modified Kaprekar Numbers (Java)"
 excerpt: "Modified Kaprekar Numbers"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-kaprekar-numbers/
 

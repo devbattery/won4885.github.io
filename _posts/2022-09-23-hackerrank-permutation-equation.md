@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Sequence Equation"
+title: "[HackerRank] Sequence Equation (Java)"
 excerpt: "Sequence Equation"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-permutation-equation/
 

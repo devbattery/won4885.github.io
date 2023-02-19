@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 2011. Final Value of Variable After Performing Operations"
+title: "[LeetCode] 2011. Final Value of Variable After Performing Operations (Java)"
 excerpt: "Final Value of Variable After Performing Operations"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-final-value-of-variable-after-performing-operations/
 

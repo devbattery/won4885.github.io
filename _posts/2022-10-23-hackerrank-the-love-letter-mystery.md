@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank The Love-Letter Mystery"
+title: "[HackerRank] The Love-Letter Mystery (Java)"
 excerpt: "The Love-Letter Mystery"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-the-love-letter-mystery/
 

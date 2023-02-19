@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 문자열 내 마음대로 정렬하기"
+title: "[Programmers] 문자열 내 마음대로 정렬하기 (Java)"
 excerpt: "문자열 내 마음대로 정렬하기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-sort-str/
 

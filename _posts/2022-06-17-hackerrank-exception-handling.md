@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Exception Handling (Try-catch)"
+title: "[HackerRank] Java Exception Handling (Try-catch)"
 excerpt: "Java Exception Handling (Try-catch)"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-exception-handling/
 

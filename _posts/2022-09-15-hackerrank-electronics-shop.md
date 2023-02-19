@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Electronics Shop"
+title: "[HackerRank] Electronics Shop (Java)"
 excerpt: "Electronics Shop"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-eletronics-shop/
 

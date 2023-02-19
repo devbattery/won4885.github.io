@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Singleton Pattern?"
+title: "[HackerRank] Java Singleton Pattern?"
 excerpt: "Java Singleton Pattern?"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-singleton-pattern/
 

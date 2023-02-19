@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Sherlock and Squares"
+title: "[HackerRank] Sherlock and Squares (Java)"
 excerpt: "Sherlock and Squares"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-sherlock-and-squares/
 

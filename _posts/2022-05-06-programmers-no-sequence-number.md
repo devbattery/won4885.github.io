@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 같은 숫자는 싫어"
+title: "[Programmers] 같은 숫자는 싫어 (Java)"
 excerpt: "같은 숫자는 싫어"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-no-sequence-number/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 281A - Word Capitalization"
+title: "[Codeforces] 281A - Word Capitalization (Java)"
 excerpt: "Word Capitalization"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-281a-word-capitalization/
 

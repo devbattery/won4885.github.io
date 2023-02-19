@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 71A - Way Too Long Words"
+title: "[Codeforces] 71A - Way Too Long Words (Java)"
 excerpt: "Way Too Long Words"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-71a-way-too-long-words/
 

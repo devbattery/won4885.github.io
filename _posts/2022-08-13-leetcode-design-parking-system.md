@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1603. Design Parking System"
+title: "[LeetCode] 1603. Design Parking System (Java)"
 excerpt: "Design Parking System"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-design-parking-system/
 

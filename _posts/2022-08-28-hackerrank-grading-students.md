@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Grading Students"
+title: "[HackerRank] Grading Students (Java)"
 excerpt: "Grading Students"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-grading-students/
 

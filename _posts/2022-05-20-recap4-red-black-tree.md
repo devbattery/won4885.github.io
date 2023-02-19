@@ -5,7 +5,7 @@ excerpt: "레드 블랙 트리 정리"
 categories:
   - Data Structure
 tags:
-  - [data_structure]
+  - [data-structure]
 
 permalink: /data-structure/recap4-red-black-tree/
 

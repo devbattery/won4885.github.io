@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 118A - String Task"
+title: "[Codeforces] 118A - String Task (Java)"
 excerpt: "String Task"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-118a-string-task/
 

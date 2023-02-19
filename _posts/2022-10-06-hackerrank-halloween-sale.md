@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Halloween Sale"
+title: "[HackerRank] Halloween Sale (Java)"
 excerpt: "Halloween Sale"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-halloween-sale/
 

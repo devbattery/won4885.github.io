@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Divisible Sum Pairs"
+title: "[HackerRank] Divisible Sum Pairs (Java)"
 excerpt: "Divisible Sum Pairs"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-divisible-sum-pairs/
 

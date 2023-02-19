@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 69A - Young Physicist"
+title: "[Codeforces] 69A - Young Physicist (Java)"
 excerpt: "Young Physicist"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-69a-young-physicist/
 

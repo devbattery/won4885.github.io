@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Taum and B'day"
+title: "[HackerRank] Taum and B'day (Java)"
 excerpt: "Taum and B'day"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-taum-and-bday/
 

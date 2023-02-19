@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Libary Fine"
+title: "[HackerRank] Libary Fine (Java)"
 excerpt: "Libary Fine"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-library-fine/
 

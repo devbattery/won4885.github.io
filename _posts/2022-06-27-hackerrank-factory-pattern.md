@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Factory Pattern"
+title: "[HackerRank] Java Factory Pattern"
 excerpt: "Java Factory Pattern"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-factory-pattern/
 

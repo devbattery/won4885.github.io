@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1365. How Many Numbers Are Smaller Than the Current Number"
+title: "[LeetCode] 1365. How Many Numbers Are Smaller Than the Current Number (Java)"
 excerpt: "How Many Numbers Are Smaller Than the Current Number"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-how-many-numbers-are-smaller-than-the-current-number/
 

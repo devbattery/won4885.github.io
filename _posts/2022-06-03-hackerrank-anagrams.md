@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Anagrams"
+title: "[HackerRank] Java Anagrams"
 excerpt: "Java Anagrams"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-anagrams/
 

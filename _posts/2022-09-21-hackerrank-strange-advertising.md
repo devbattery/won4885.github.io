@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Viral Advertising"
+title: "[HackerRank] Viral Advertising (Java)"
 excerpt: "Viral Advertising"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-strange-advertising/
 

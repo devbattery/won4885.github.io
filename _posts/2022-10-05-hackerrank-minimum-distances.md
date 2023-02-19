@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Minimum Distances"
+title: "[HackerRank] Minimum Distances (Java)"
 excerpt: "Minimum Distances"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-minimum-distances/
 

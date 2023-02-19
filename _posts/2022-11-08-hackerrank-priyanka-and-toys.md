@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Priyanka and Toys"
+title: "[HackerRank] Priyanka and Toys (Java)"
 excerpt: "Priyanka and Toys"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-priyanka-and-toys/
 

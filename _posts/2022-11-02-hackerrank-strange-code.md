@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Strange Counter"
+title: "[HackerRank] Strange Counter (Java)"
 excerpt: "Strange Counter"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-strange-code/
 

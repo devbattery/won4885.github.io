@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Mars Exploration"
+title: "[HackerRank] Mars Exploration (Java)"
 excerpt: "Mars Exploration"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-mars-exploration/
 

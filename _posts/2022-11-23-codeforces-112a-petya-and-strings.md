@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 112A - Petya and Strings"
+title: "[Codeforces] 112A - Petya and Strings (Java)"
 excerpt: "Petya and Strings"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /codeforces/codeforces-112a-petya-and-strings/
 

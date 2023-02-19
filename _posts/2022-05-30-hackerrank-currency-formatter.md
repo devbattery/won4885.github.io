@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Currency Formatter"
+title: "[HackerRank] Java Currency Formatter"
 excerpt: "Java Currency Formatter"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-currency-formatter/
 

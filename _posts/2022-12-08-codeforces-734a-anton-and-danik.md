@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 734A - Anton and Danik"
+title: "[Codeforces] 734A - Anton and Danik (Java)"
 excerpt: "Anton and Danik"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-734a-anton-and-danik/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 791A - Bear and Big Brother"
+title: "[Codeforces] 791A - Bear and Big Brother (Java)"
 excerpt: "Bear and Big Brother"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-791a-bear-and-big-brother/
 

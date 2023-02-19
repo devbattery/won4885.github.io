@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Insertion Sort - Part 2"
+title: "[HackerRank] Insertion Sort - Part 2 (Java)"
 excerpt: "Insertion Sort - Part 2"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-insertion-sort-2/
 

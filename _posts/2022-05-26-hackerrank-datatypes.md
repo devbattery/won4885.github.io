@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Datatypes"
+title: "[HackerRank] Java Datatypes"
 excerpt: "Java Datatypes"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-datatypes/
 

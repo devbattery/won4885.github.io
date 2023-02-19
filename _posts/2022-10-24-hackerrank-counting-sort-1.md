@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Counting Sort 1"
+title: "[HackerRank] Counting Sort 1 (Java)"
 excerpt: "Counting Sort 1"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-counting-sort-1/
 

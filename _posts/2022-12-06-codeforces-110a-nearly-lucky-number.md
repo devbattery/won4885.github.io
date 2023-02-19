@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 110A - Nearly Lucky Number"
+title: "[Codeforces] 110A - Nearly Lucky Number (Java)"
 excerpt: "Nearly Lucky Number"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-110a-nearly-lucky-number/
 

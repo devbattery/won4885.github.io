@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Equalize the Array"
+title: "[HackerRank] Equalize the Array (Java)"
 excerpt: "Equalize the Array"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-equality-in-a-array/
 

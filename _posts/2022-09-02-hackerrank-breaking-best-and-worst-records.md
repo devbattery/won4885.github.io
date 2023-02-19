@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Breaking the Records"
+title: "[HackerRank] Breaking the Records (Java)"
 excerpt: "Breaking the Records"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-breaking-best-and-worst-records/
 

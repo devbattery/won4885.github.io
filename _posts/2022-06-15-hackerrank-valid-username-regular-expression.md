@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Reflection - Attributes"
+title: "[HackerRank] Java Reflection - Attributes"
 excerpt: "Java Reflection - Attributes"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-valid-username-regular-expression/
 

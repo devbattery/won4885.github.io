@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Sales by Match"
+title: "[HackerRank] Sales by Match (Java)"
 excerpt: "Sales by Match"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-sock-merchant/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Alternating Characters"
+title: "[HackerRank] Alternating Characters (Java)"
 excerpt: "Alternating Characters"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-alternating-characters/
 

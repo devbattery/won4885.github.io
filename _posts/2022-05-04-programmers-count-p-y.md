@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 문자열 내 p와 y의 개수"
+title: "[Programmers] 문자열 내 p와 y의 개수 (Java)"
 excerpt: "문자열 내 p와 y의 개수"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-count-p-y/
 

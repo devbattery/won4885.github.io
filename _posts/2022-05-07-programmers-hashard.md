@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 하샤드 수"
+title: "[Programmers] 하샤드 수 (Java)"
 excerpt: "하샤드 수"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-hashard/
 

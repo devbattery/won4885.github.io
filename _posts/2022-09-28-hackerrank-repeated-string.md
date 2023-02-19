@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Repeated String"
+title: "[HackerRank] Repeated String (Java)"
 excerpt: "Repeated String"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-repeated-string/
 

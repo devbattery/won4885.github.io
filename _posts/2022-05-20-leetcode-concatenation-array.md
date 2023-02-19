@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1929. Concatenation of Array"
+title: "[LeetCode] 1929. Concatenation of Array (Java)"
 excerpt: "Concatenation of Array"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-concatenation-array/
 

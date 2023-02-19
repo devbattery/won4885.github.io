@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank String Construction"
+title: "[HackerRank] String Construction (Java)"
 excerpt: "String Construction"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-string-construction/
 

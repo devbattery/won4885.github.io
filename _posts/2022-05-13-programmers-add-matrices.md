@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 행렬의 덧셈"
+title: "[Programmers] 행렬의 덧셈 (Java)"
 excerpt: "행렬의 덧셈"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-add-matrices/
 

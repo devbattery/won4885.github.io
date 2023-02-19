@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Making Anagrams"
+title: "[HackerRank] Making Anagrams (Java)"
 excerpt: "Making Anagrams"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-making-anagrams/
 

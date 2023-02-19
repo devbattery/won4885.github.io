@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Substring Comparisons"
+title: "[HackerRank] Java Substring Comparisons"
 excerpt: "Java Substring Comparisons"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-substring-comparisons/
 

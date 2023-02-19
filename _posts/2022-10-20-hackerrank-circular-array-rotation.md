@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Circular Array Rotation"
+title: "[HackerRank] Circular Array Rotation (Java)"
 excerpt: "Circular Array Rotation"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-circular-array-rotation/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Counting Valleys"
+title: "[HackerRank] Counting Valleys (Java)"
 excerpt: "Counting Valleys"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-counting-valleys/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 2114. Maximum Number of Words Found in Sentences"
+title: "[LeetCode] 2114. Maximum Number of Words Found in Sentences (Java)"
 excerpt: "Maximum Number of Words Found in Sentences"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-maximum-number-of-words-found-in-sentences/
 

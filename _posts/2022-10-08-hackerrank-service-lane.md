@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Service Lane"
+title: "[HackerRank] Service Lane (Java)"
 excerpt: "Service Lane"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-service-lane/
 

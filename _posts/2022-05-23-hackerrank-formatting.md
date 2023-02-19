@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Output Formatting"
+title: "[HackerRank] Java Output Formatting"
 excerpt: "Java Output Formatting"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-formatting/
 

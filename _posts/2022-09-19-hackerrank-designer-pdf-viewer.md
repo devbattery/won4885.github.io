@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Designer PDF Viewer"
+title: "[HackerRank] Designer PDF Viewer (Java)"
 excerpt: "Designer PDF Viewer"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-designer-pdf-viewer/
 

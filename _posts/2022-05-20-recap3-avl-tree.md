@@ -5,7 +5,7 @@ excerpt: "AVL 트리 정리"
 categories:
   - Data Structure
 tags:
-  - [data_structure]
+  - [data-structure]
 
 permalink: /data-structure/recap3-avl-tree/
 

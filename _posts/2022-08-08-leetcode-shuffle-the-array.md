@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1470. Shuffle the Array"
+title: "[LeetCode] 1470. Shuffle the Array (Java)"
 excerpt: "Shuffle the Array"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-shuffle-the-array/
 

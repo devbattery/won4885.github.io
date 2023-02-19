@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 핸드폰 번호 가리기"
+title: "[Programmers] 핸드폰 번호 가리기 (Java)"
 excerpt: "핸드폰 번호 가리기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-blind-phone-number/
 

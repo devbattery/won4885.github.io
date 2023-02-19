@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Prime Checker"
+title: "[HackerRank] Prime Checker"
 excerpt: "Prime Checker"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-prime-checker/
 

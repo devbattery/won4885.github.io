@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Time Conversion"
+title: "[HackerRank] Time Conversion (Java)"
 excerpt: "Time Conversion"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-time-conversion/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Funny String"
+title: "[HackerRank] Funny String (Java)"
 excerpt: "Funny String"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-funny-string/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Comparator"
+title: "[HackerRank] Java Comparator"
 excerpt: "Java Comparator"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-comparator/
 

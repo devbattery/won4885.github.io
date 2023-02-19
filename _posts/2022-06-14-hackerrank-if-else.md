@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java If-Else"
+title: "[HackerRank] Java If-Else"
 excerpt: "Java If-Else"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-if-else/
 

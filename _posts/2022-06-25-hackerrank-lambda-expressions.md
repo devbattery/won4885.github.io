@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Lambda Expressions"
+title: "[HackerRank] Java Lambda Expressions"
 excerpt: "Java Lambda Expressions"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-lambda-expressions/
 

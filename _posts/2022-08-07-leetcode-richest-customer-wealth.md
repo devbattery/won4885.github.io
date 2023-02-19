@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1672. Richest Customer Wealth"
+title: "[LeetCode] 1672. Richest Customer Wealth (Java)"
 excerpt: "Richest Customer Wealth"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-richest-customer-wealth/
 

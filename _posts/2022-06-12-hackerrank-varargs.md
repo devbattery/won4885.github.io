@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Java Varargs - Simple Addition"
+title: "[HackerRank] Java Varargs - Simple Addition"
 excerpt: "Java Varargs - Simple Addition"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-varargs/
 

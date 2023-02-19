@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 최대공약수와 최소공배수"
+title: "[Programmers] 최대공약수와 최소공배수 (Java)"
 excerpt: "최대공약수와 최소공배수"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-gcf-lcm/
 

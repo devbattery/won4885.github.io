@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Beautiful Days at the Movies"
+title: "[HackerRank] Beautiful Days at the Movies (Java)"
 excerpt: "Beautiful Days at the Movies"
 
 categories:
   - HackerRank
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /hackerrank/hackerrank-beautiful-days-at-the-movies/
 

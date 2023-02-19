@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Super Reduced String"
-excerpt: "Super Reduced String"
+title: "[HackerRank] Super Reduced String (Java)"
+excerpt: "Super Reduced String, implementation"
 
 categories:
   - HackerRank
 tags:
-  - [implementation]
+  - [algorithms, implementation]
 
 permalink: /hackerrank/hackerrank-super-reduced-string/
 

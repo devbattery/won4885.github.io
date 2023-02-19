@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 1030A - In Search of an Easy Problem"
+title: "[Codeforces] 1030A - In Search of an Easy Problem (Java)"
 excerpt: "In Search of an Easy Problem"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-1030a-in-search-of-an-easy-problem/
 

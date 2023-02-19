@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 61A - Ultra-Fast Mathematician"
+title: "[Codeforces] 61A - Ultra-Fast Mathematician (Java)"
 excerpt: "Ultra-Fast Mathematician"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-61a-ultra-fast-mathematician/
 

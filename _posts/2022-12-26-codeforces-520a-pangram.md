@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 520A - Pangram"
+title: "[Codeforces] 520A - Pangram (Java)"
 excerpt: "Pangram"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-520a-pangram/
 

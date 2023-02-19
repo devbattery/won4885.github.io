@@ -1,11 +1,11 @@
 ---
-title: "[Java] HackerRank Append and Delete (failed)"
-excerpt: "Append and Delete"
+title: "[HackerRank] Append and Delete (failed) (Java)"
+excerpt: "Append and Delete, implementation"
 
 categories:
   - HackerRank
 tags:
-  - [implementation]
+  - [algorithms, implementation]
 
 permalink: /hackerrank/hackerrank-append-and-delete/
 

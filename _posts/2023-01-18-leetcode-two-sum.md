@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 1. Two Sum"
+title: "[LeetCode] 1. Two Sum (Java)"
 excerpt: "Two Sum"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-two-sum/
 

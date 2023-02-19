@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 부족한 금액 계산하기"
+title: "[Programmers] 부족한 금액 계산하기 (Java)"
 excerpt: "부족한 금액 계산하기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-calculate-the-shortfall/
 

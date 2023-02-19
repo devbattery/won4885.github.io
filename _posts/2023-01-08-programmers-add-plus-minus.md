@@ -1,11 +1,11 @@
 ---
-title: "[Java] Programmers 음양 더하기"
+title: "[Programmers] 음양 더하기 (Java)"
 excerpt: "음앙 더하기"
 
 categories:
   - Programmers
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /programmers/programmers-add-plus-minus/
 

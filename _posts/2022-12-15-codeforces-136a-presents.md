@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 136A - Presents"
+title: "[Codeforces] 136A - Presents (Java)"
 excerpt: "Presents"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-136a-presents/
 

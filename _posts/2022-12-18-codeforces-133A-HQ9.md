@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 133A - HQ9+"
+title: "[Codeforces] 133A - HQ9+ (Java)"
 excerpt: "HQ9+"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-133A-HQ9/
 

@@ -1,11 +1,11 @@
 ---
-title: "[Java] LeetCode 7. Reverse Integer"
+title: "[LeetCode] 7. Reverse Integer (Java)"
 excerpt: "Reverse Integer"
 
 categories:
   - LeetCode
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /leetcode/leetcode-reverse-integer/
 

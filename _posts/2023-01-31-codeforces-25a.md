@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 25A - IQ test"
-excerpt: "IQ test"
+title: "[Codeforces] 25A - IQ test (Java)"
+excerpt: "IQ test, implementation, brute-force"
 
 categories:
   - Codeforces
 tags:
-  - [brute-force]
+  - [algorithms, implementation, brute-force]
 
 permalink: /categories/codeforces/codeforces-25a/
 

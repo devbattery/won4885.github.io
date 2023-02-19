@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 200B - Drinks"
+title: "[Codeforces] 200B - Drinks (Java)"
 excerpt: "Drinks"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-200b-drinks/
 

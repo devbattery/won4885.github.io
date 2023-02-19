@@ -1,11 +1,11 @@
 ---
-title: "[Java] Codeforces 228A - Is your horseshoe on the other hoof?"
+title: "[Codeforces] 228A - Is your horseshoe on the other hoof? (Java)"
 excerpt: "Is your horseshoe on the other hoof?"
 
 categories:
   - Codeforces
 tags:
-  - [Java]
+  - [algorithms]
 
 permalink: /categories/codeforces/codeforces-228a-is-your-horseshoe-on-the-other-hoof/
 

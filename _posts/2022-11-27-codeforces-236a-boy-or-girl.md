@@ -5,7 +5,7 @@ excerpt: "Boy or Girl"
 categories:
   - Codeforces
 tags:
-  - [algorithms]
+  - [java, algorithms]
 
 permalink: /categories/codeforces/codeforces-236a-boy-or-girl/
 

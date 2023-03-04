@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sully's Algorithms"
+title                    : "Sully's Tech Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sully"
-description              : "Sully's Blog"
-url                      : "https://won4885.github.io"
+description              : "Sully's Tech Blog"
+url                      : "https://sully-tech.dev"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "won4885/won4885.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

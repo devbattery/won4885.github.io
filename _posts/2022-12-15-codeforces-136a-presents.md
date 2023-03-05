@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-136a-presents/
+permalink: /codeforces/codeforces-136a-presents/
 
 toc: true
 toc_sticky: true

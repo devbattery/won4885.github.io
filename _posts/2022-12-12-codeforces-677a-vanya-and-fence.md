@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-677a-vanya-and-fence/
+permalink: /codeforces/codeforces-677a-vanya-and-fence/
 
 toc: true
 toc_sticky: true

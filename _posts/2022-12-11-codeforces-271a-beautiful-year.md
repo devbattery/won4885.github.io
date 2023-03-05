@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-271a-beautiful-year/
+permalink: /codeforces/codeforces-271a-beautiful-year/
 
 toc: true
 toc_sticky: true

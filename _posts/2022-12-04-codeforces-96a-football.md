@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-96a-football/
+permalink: /codeforces/codeforces-96a-football/
 
 toc: true
 toc_sticky: true

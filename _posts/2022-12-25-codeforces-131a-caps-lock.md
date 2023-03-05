@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-131a-caps-lock/
+permalink: /codeforces/codeforces-131a-caps-lock/
 
 toc: true
 toc_sticky: true

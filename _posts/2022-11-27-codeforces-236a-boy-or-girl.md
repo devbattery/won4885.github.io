@@ -7,7 +7,7 @@ categories:
 tags:
   - [java, algorithms]
 
-permalink: /categories/codeforces/codeforces-236a-boy-or-girl/
+permalink: /codeforces/codeforces-236a-boy-or-girl/
 
 toc: true
 toc_sticky: true

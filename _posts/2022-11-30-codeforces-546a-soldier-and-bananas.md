@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-546a-soldier-and-bananas/
+permalink: /codeforces/codeforces-546a-soldier-and-bananas/
 
 toc: true
 toc_sticky: true

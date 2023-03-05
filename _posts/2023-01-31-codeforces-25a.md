@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms, implementation, brute-force]
 
-permalink: /categories/codeforces/codeforces-25a/
+permalink: /codeforces/codeforces-25a/
 
 toc: true
 toc_sticky: true

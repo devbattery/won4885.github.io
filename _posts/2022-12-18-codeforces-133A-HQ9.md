@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-133A-HQ9/
+permalink: /codeforces/codeforces-133A-HQ9/
 
 toc: true
 toc_sticky: true

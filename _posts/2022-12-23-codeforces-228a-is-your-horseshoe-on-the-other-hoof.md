@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-228a-is-your-horseshoe-on-the-other-hoof/
+permalink: /codeforces/codeforces-228a-is-your-horseshoe-on-the-other-hoof/
 
 toc: true
 toc_sticky: true

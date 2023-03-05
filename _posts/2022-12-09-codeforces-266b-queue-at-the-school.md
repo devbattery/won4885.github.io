@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-266b-queue-at-the-school/
+permalink: /codeforces/codeforces-266b-queue-at-the-school/
 
 toc: true
 toc_sticky: true

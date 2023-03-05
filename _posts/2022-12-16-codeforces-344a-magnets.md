@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-344a-magnets/
+permalink: /codeforces/codeforces-344a-magnets/
 
 toc: true
 toc_sticky: true

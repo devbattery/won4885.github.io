@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-318a-even-odds/
+permalink: /codeforces/codeforces-318a-even-odds/
 
 toc: true
 toc_sticky: true

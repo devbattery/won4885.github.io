@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-208a-dubstep/
+permalink: /codeforces/codeforces-208a-dubstep/
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-59a-word/
+permalink: /codeforces/codeforces-59a-word/
 
 toc: true
 toc_sticky: true

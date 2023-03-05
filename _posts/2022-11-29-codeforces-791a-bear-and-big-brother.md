@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-791a-bear-and-big-brother/
+permalink: /codeforces/codeforces-791a-bear-and-big-brother/
 
 toc: true
 toc_sticky: true

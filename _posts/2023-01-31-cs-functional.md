@@ -7,7 +7,7 @@ categories:
 tags:
   - [codesquad]
 
-permalink: /categories/cs/cs-functional/
+permalink: /cs/cs-functional/
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-467a-george-and-accommodation/
+permalink: /codeforces/codeforces-467a-george-and-accommodation/
 
 toc: true
 toc_sticky: true

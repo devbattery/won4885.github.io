@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-116a-tram/
+permalink: /codeforces/codeforces-116a-tram/
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-520a-pangram/
+permalink: /codeforces/codeforces-520a-pangram/
 
 toc: true
 toc_sticky: true

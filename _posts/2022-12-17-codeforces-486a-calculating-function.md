@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-486a-calculating-function/
+permalink: /codeforces/codeforces-486a-calculating-function/
 
 toc: true
 toc_sticky: true

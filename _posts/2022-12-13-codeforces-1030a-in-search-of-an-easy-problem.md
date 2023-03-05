@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-1030a-in-search-of-an-easy-problem/
+permalink: /codeforces/codeforces-1030a-in-search-of-an-easy-problem/
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-69a-young-physicist/
+permalink: /codeforces/codeforces-69a-young-physicist/
 
 toc: true
 toc_sticky: true

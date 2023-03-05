@@ -7,7 +7,7 @@ categories:
 tags:
   - [codesquad]
 
-permalink: /categories/cs/cs-asynchronous/
+permalink: /cs/cs-asynchronous/
 
 toc: true
 toc_sticky: true

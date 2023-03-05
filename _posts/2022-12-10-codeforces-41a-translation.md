@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-41a-translation/
+permalink: /codeforces/codeforces-41a-translation/
 
 toc: true
 toc_sticky: true

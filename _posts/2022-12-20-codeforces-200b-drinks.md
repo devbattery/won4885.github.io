@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-200b-drinks/
+permalink: /codeforces/codeforces-200b-drinks/
 
 toc: true
 toc_sticky: true

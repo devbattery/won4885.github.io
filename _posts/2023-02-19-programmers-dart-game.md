@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /programmers/programmers-dart-game/
+permalink: /programmers-dart-game/
 
 toc: true
 toc_sticky: true

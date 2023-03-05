@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-266a-stones-one-the-table/
+permalink: /codeforces/codeforces-266a-stones-one-the-table/
 
 toc: true
 toc_sticky: true

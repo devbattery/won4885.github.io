@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-617a-elephant/
+permalink: /codeforces/codeforces-617a-elephant/
 
 toc: true
 toc_sticky: true

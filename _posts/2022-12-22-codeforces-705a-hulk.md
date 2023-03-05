@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-705a-hulk/
+permalink: /codeforces/codeforces-705a-hulk/
 
 toc: true
 toc_sticky: true

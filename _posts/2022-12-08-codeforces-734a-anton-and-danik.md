@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-734a-anton-and-danik/
+permalink: /codeforces/codeforces-734a-anton-and-danik/
 
 toc: true
 toc_sticky: true

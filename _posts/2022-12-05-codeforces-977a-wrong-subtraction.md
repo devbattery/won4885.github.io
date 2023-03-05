@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-977a-wrong-subtraction/
+permalink: /codeforces/codeforces-977a-wrong-subtraction/
 
 toc: true
 toc_sticky: true

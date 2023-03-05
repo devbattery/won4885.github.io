@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-61a-ultra-fast-mathematician/
+permalink: /codeforces/codeforces-61a-ultra-fast-mathematician/
 
 toc: true
 toc_sticky: true

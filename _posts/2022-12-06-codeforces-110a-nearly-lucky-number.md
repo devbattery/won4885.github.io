@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /categories/codeforces/codeforces-110a-nearly-lucky-number/
+permalink: /codeforces/codeforces-110a-nearly-lucky-number/
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [codesquad]
 
-permalink: /categories/cs/cs-docker-mysql/
+permalink: /cs/cs-docker-mysql/
 
 toc: true
 toc_sticky: true

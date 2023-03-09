@@ -1,7 +1,3 @@
-# Sully's Tech Blog
+## Sully's Tech Blog
 
-<div align=center>
-
-![Sully's Algorithms](https://user-images.githubusercontent.com/62871026/209078687-34f7a5c4-0fb8-4389-b240-ef51e50feee2.gif)
-
-</div>
+<img src="https://user-images.githubusercontent.com/62871026/223917522-153a0506-18c9-4ff8-aff8-566a5c2f972a.png" width="100" height="100">

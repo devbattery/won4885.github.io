@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithms]
 
-permalink: /programmers-fail/
+permalink: /programmers/programmers-fail/
 
 toc: true
 toc_sticky: true

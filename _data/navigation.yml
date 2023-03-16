@@ -33,13 +33,19 @@ categories:
         url: /categories/inflearn/
       - title: "이코테"
         url: /categories/ecote/
-  - title: "💬 recap" 
-    children:
-      - title: "Data Structure"
-        url: /categories/data-structure/
-  - title: "👨‍💻 CodeSquad" 
+  - title: "💬 recap"
     children:
       - title: "CS"
         url: /categories/cs/
+      - title: "OOP"
+        url: /categories/oop/
+      - title: "Spring"
+        url: /categories/spring/
+      - title: "Unit Test"
+        url: /categories/unit-test/
+      - title: "Data Structure"
+        url: /categories/data-structure/
+  - title: "👨‍💻 CodeSquad"
+    children:
       - title: "TIL"
         url: /categories/til/

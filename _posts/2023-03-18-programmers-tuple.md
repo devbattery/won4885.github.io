@@ -47,8 +47,4 @@ def solution(s):
     # s_array = s.split(r'},{')
     # s_array[0] = re.sub('[^,0-9]', '', s_array[0])
     # s_array[len(s_array) - 1] = re.sub('[^,0-9]', '', s_array[len(s_array) - 1])
-
-
-print(solution("{{2},{2,1},{2,1,3},{2,1,3,4}}"))
-print(solution("{{1,2,3},{2,1},{1,2,4,3},{2}}"))
 ```

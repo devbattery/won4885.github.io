@@ -7,7 +7,7 @@ categories:
 tags:
   - [python, permutation, combinaiton]
 
-permalink: /data-structure/data-structure-permutation-and-combination/
+permalink: /data-structure/permutation-and-combination/
 
 toc: true
 toc_sticky: true

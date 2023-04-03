@@ -1,9 +1,9 @@
 ---
-title: "OOP"
+title: "Java"
 layout: category
-permalink: /categories/oop/
+permalink: /categories/java/
 author_profile: true
-taxonomy: OOP
+taxonomy: Java
 sidebar:
   nav: "categories"
 ---

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 future: true
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "Sully's Tech Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead

@@ -152,7 +152,7 @@ body {
 
     &::before,
     &::after {
-      letter-spacing: -0.2em;
+      letter-spacing: -0.004em;
       content: "\00a0"; /* non-breaking space*/
     }
   }

@@ -14,6 +14,9 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 future: true
+dark_theme_toggle        : true
+after_footer_scripts:
+  - /assets/js/custom/dark-theme.js
 
 # Site Settings
 locale                   : "en-US"

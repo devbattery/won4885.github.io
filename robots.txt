@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://won4885.github.io/sitemap.xml
+Sitemap: https://sully-tech.dev/sitemap.xml

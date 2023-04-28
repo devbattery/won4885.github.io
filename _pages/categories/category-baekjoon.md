@@ -7,3 +7,6 @@ taxonomy: Baekjoon
 sidebar:
   nav: "categories"
 ---
+
+{% assign posts = site.categories.baekjoon %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

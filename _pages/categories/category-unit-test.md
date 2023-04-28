@@ -7,3 +7,6 @@ taxonomy: Unit Test
 sidebar:
   nav: "categories"
 ---
+
+{% assign posts = site.categories.unit-test %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

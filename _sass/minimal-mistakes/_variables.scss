@@ -14,8 +14,8 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: "Pretendard", Georgia, Times, serif !default;
-$sans-serif: "Pretendard", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif: "Pretendard", -apple-system, BlinkMacSystemFont, "Roboto",
+  "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: "JetBrainsMono", Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
@@ -140,22 +140,39 @@ $code-notice-background-mix: 90% !default;
 // $base0e: #c792ea !default;
 // $base0f: #ff5370 !default;
 
-$base00: #1d1f21;
-$base01: #282a2e;
-$base02: #373b41;
-$base03: #969896;
-$base04: #b4b7b4;
-$base05: #c5c8c6;
-$base06: #e0e0e0;
-$base07: #ffffff;
-$base08: #cc342b;
-$base09: #f96a38;
-$base0a: #fba922;
-$base0b: #198844;
-$base0c: #3971ed;
-$base0d: #3971ed;
-$base0e: #a36ac7;
-$base0f: #3971ed;
+// $base00: #1d1f21;
+// $base01: #282a2e;
+// $base02: #373b41;
+// $base03: #969896;
+// $base04: #b4b7b4;
+// $base05: #c5c8c6;
+// $base06: #e0e0e0;
+// $base07: #ffffff;
+// $base08: #cc342b;
+// $base09: #f96a38;
+// $base0a: #fba922;
+// $base0b: #198844;
+// $base0c: #3971ed;
+// $base0d: #3971ed;
+// $base0e: #a36ac7;
+// $base0f: #3971ed;
+
+$base00: "#282c34";
+$base01: "#353b45";
+$base02: "#3e4451";
+$base03: "#545862";
+$base04: "#565c64";
+$base05: "#abb2bf";
+$base06: "#b6bdca";
+$base07: "#c8ccd4";
+$base08: "#e06c75";
+$base09: "#d19a66";
+$base0a: "#e5c07b";
+$base0b: "#98c379";
+$base0c: "#56b6c2";
+$base0d: "#61afef";
+$base0e: "#c678dd";
+$base0f: "#be5046";
 
 /*
    Breakpoints

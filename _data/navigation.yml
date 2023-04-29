@@ -35,12 +35,12 @@ categories:
       - title: "Spring"
         url: /categories/spring/
       - title: "Unit Test"
-        url: /categories/unit-test/
-      - title: "CS"
+        url: /categories/unit_test/
+      - title: "Computer Science"
         url: /categories/cs/
       - title: "Data Structure"
-        url: /categories/data-structure/
+        url: /categories/data_structure/
   - title: "👨‍💻 CodeSquad"
     children:
-      - title: "TIL"
+      - title: "Today I Learned"
         url: /categories/til/

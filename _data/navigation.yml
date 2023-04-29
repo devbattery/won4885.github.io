@@ -17,30 +17,42 @@ categories:
   - title: "💻 Algorithms"
     children:
       - title: "LeetCode"
-        url: /categories/leetcode/
+        url: /leetcode/
+        category: "leetcode"
       - title: "HackerRank"
-        url: /categories/hackerrank/
+        url: /hackerrank/
+        category: "hackerrank"
       - title: "Codeforces"
-        url: /categories/codeforces/
+        url: /codeforces/
+        category: "codeforces"
       - title: "Programmers"
-        url: /categories/programmers/
+        url: /programmers/
+        category: "programmers"
       - title: "Baekjoon"
-        url: /categories/baekjoon/
+        url: /baekjoon/
+        category: "baekjoon"
       - title: "Inflearn"
-        url: /categories/inflearn/
+        url: /inflearn/
+        category: "inflearn"
   - title: "💬 recap"
     children:
       - title: "Java"
-        url: /categories/java/
+        url: /java/
+        category: "java"
       - title: "Spring"
-        url: /categories/spring/
+        url: /spring/
+        category: "spring"
       - title: "Unit Test"
-        url: /categories/unit_test/
+        url: /unit-test/
+        category: "unit_test"
       - title: "Computer Science"
-        url: /categories/cs/
+        url: /cs/
+        category: "cs"
       - title: "Data Structure"
-        url: /categories/data_structure/
+        url: /data-structure/
+        category: "data-structure"
   - title: "👨‍💻 CodeSquad"
     children:
       - title: "Today I Learned"
-        url: /categories/til/
+        url: /til/
+        category: "til"

@@ -1,7 +1,7 @@
 ---
 title: "Inflearn"
 layout: category
-permalink: /categories/inflearn/
+permalink: /inflearn/
 author_profile: true
 taxonomy: Inflearn
 sidebar:

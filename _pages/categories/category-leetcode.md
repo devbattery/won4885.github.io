@@ -1,7 +1,7 @@
 ---
 title: "LeetCode"
 layout: category
-permalink: /categories/leetcode/
+permalink: /leetcode/
 author_profile: true
 taxonomy: LeetCode
 sidebar:

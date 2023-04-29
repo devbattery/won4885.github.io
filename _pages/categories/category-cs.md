@@ -1,7 +1,7 @@
 ---
 title: "CS"
 layout: category
-permalink: /categories/cs/
+permalink: /cs/
 author_profile: true
 taxonomy: CS
 sidebar:

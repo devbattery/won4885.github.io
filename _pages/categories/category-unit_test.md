@@ -1,9 +1,9 @@
 ---
-title: "Unit Test"
+title: "unit-test"
 layout: category
-permalink: /categories/unit_test/
+permalink: /unit-test/
 author_profile: true
-taxonomy: Unit Test
+taxonomy: unit-test
 sidebar:
   nav: "categories"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "data-structure"
 layout: category
-permalink: /categories/data-structure/
+permalink: /data-structure/
 author_profile: true
 taxonomy: data-structure
 sidebar:

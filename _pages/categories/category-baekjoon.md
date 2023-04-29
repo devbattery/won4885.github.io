@@ -1,7 +1,7 @@
 ---
 title: "Baekjoon"
 layout: category
-permalink: /categories/baekjoon/
+permalink: /baekjoon/
 author_profile: true
 taxonomy: Baekjoon
 sidebar:

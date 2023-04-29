@@ -1,7 +1,7 @@
 ---
 title: "Spring"
 layout: category
-permalink: /categories/spring/
+permalink: /spring/
 author_profile: true
 taxonomy: Spring
 sidebar:

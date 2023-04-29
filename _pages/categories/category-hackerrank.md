@@ -1,7 +1,7 @@
 ---
 title: "HackerRank"
 layout: category
-permalink: /categories/hackerrank/
+permalink: /hackerrank/
 author_profile: true
 taxonomy: HackerRank
 sidebar:

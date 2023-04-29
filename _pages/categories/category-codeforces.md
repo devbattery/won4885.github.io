@@ -1,7 +1,7 @@
 ---
 title: "Codeforces"
 layout: category
-permalink: /categories/codeforces/
+permalink: /codeforces/
 author_profile: true
 taxonomy: Codeforces
 sidebar:

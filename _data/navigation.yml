@@ -18,36 +18,36 @@ categories:
     children:
       - title: "LeetCode"
         url: /leetcode/
-        category: "leetcode"
+        category: "LeetCode"
       - title: "HackerRank"
         url: /hackerrank/
-        category: "hackerrank"
+        category: "HackerRank"
       - title: "Codeforces"
         url: /codeforces/
-        category: "codeforces"
+        category: "Codeforces"
       - title: "Programmers"
         url: /programmers/
-        category: "programmers"
+        category: "Programmers"
       - title: "Baekjoon"
         url: /baekjoon/
-        category: "baekjoon"
+        category: "Baekjoon"
       - title: "Inflearn"
         url: /inflearn/
-        category: "inflearn"
+        category: "Inflearn"
   - title: "💬 recap"
     children:
       - title: "Java"
         url: /java/
-        category: "java"
+        category: "Java"
       - title: "Spring"
         url: /spring/
-        category: "spring"
+        category: "Spring"
       - title: "Unit Test"
         url: /unit-test/
-        category: "unit_test"
+        category: "unit-test"
       - title: "Computer Science"
         url: /cs/
-        category: "cs"
+        category: "CS"
       - title: "Data Structure"
         url: /data-structure/
         category: "data-structure"
@@ -55,4 +55,4 @@ categories:
     children:
       - title: "Today I Learned"
         url: /til/
-        category: "til"
+        category: "TIL"

@@ -3,9 +3,9 @@ title: "[자료구조] Red Black Tree (레드 블랙 트리)"
 excerpt: "레드 블랙 트리 정리"
 
 categories:
-  - Data Structure
+  - data-structure
 tags:
-  - [data-structure]
+  - [red-black-tree]
 
 toc: true
 toc_sticky: true

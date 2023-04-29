@@ -3,9 +3,9 @@ title: "[자료구조] Time Complexity (시간 복잡도)"
 excerpt: "시간 복잡도 정리"
 
 categories:
-  - Data Structure
+  - data-structure
 tags:
-  - [data-structure]
+  - [time-complexity]
 
 toc: true
 toc_sticky: true

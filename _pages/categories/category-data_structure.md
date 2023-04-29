@@ -1,12 +1,12 @@
 ---
-title: "Unit Test"
+title: "Data Structure"
 layout: category
-permalink: /categories/unit-test/
+permalink: /categories/data_structure/
 author_profile: true
-taxonomy: Unit Test
+taxonomy: Data Structure
 sidebar:
   nav: "categories"
 ---
 
-{% assign posts = site.categories.unit-test %}
+{% assign posts = site.categories.data_structure %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

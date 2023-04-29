@@ -3,9 +3,9 @@ title: "[자료구조] Linked List (연결 리스트)"
 excerpt: "Linked List 정리"
 
 categories:
-  - Data Structure
+  - data-structure
 tags:
-  - [data-structure]
+  - [linked-list]
 
 toc: true
 toc_sticky: true

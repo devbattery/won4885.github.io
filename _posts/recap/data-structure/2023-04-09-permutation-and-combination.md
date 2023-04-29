@@ -3,7 +3,7 @@ title: "[알고리즘 구현] 순열과 조합 구현 (Python)"
 excerpt: "Permutation, Combination, 재귀, 백트래킹, 그리디"
 
 categories:
-  - Data Structure
+  - data-structure
 tags:
   - [python, permutation, combinaiton]
 

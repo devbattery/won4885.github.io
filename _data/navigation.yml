@@ -14,7 +14,7 @@ main:
 
 # sidebar navigation (categories)
 categories:
-  - title: "💻 Algorithms"
+  - title: "📈 Algorithms"
     children:
       - title: "LeetCode"
         url: /leetcode/
@@ -34,8 +34,7 @@ categories:
       - title: "Inflearn"
         url: /inflearn/
         category: "Inflearn"
-  - title: "💬 recap"
-    children:
+  - title: "🧑🏻‍💻 Programming"
       - title: "Java"
         url: /java/
         category: "Java"
@@ -45,13 +44,15 @@ categories:
       - title: "Unit Test"
         url: /unit-test/
         category: "unit-test"
+  - title: "🖥️ Computing"
+    children:
       - title: "Computer Science"
         url: /cs/
         category: "CS"
       - title: "Data Structure"
         url: /data-structure/
         category: "data-structure"
-  - title: "👨‍💻 CodeSquad"
+  - title: "🍀 CodeSquad"
     children:
       - title: "Today I Learned"
         url: /til/

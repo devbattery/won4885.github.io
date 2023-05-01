@@ -35,6 +35,7 @@ categories:
         url: /inflearn/
         category: "Inflearn"
   - title: "🧑🏻‍💻 Programming"
+    children:
       - title: "Java"
         url: /java/
         category: "Java"

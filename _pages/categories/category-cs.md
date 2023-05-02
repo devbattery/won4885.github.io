@@ -1,5 +1,5 @@
 ---
-title: "CS"
+title: "Computer Science"
 layout: category
 permalink: /cs/
 author_profile: true

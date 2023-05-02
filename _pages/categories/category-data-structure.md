@@ -1,5 +1,5 @@
 ---
-title: "data-structure"
+title: "Data Structure"
 layout: category
 permalink: /data-structure/
 author_profile: true

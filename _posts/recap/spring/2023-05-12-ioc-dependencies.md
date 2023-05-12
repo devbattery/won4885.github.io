@@ -14,7 +14,7 @@ date: 2023-05-12
 last_modified_at: 2023-05-12
 ---
 
-> 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 이를 일주일 단위로 계속 정리해나가는 중입니다.
+> 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 일주일 단위로 정리해 나가고 있습니다.
 
 <br>
 

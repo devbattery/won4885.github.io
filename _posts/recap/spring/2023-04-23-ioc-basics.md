@@ -1,83 +1,36 @@
 ---
-title: "[Spring] IoC 컨테이너 공식문서 번역 (1)"
-excerpt: "1.1 ~ 1.2.2"
+title: "[Spring] IoC 컨테이너 공식문서 번역 (Container Overview)"
+excerpt: "컨테이너 개요"
 
 categories:
   - Spring
 tags:
-  - [codesquad]
+  - [ioc]
 
 toc: true
 toc_sticky: true
 
-date: 2023-04-16
-last_modified_at: 2023-04-16
+date: 2023-04-23
+last_modified_at: 2023-04-23
 ---
+
+> 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 이를 일주일 단위로 계속 정리해나가는 중입니다.
+
+<br>
+
+## 기록
+
+- [IoC 컨테이너 공식문서 번역 (Introduction to the Spring IoC Container and Beans)](https://sully-tech.dev/spring/ioc-introduction/)
+
+<br>
 
 ## Reference
 
 - [Spring 공식 문서](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)
 
-> 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이어서 이를 일주일 단위로 계속 정리해나갈 예정입니다.
-
-## 1.1. Introduction to the Spring IoC Container and Beans
-
-This chapter covers the Spring Framework implementation of the Inversion of Control (IoC) principle. IoC is also known
-as dependency injection (DI). It is a process whereby objects define their dependencies (that is, the other objects they
-work with) only through constructor arguments, arguments to a factory method, or properties that are set on the object
-instance after it is constructed or returned from a factory method. The container then injects those dependencies when
-it creates the bean. This process is fundamentally the inverse (hence the name, Inversion of Control) of the bean itself
-controlling the instantiation or location of its dependencies by using direct construction of classes or a mechanism
-such as the Service Locator pattern.
-
-> 이 장에서는 `제어의 역전(IoC)` 원리의 스프링 프레임워크 구현에 대해서 설명합니다. `IoC`는 `의존성 주입(DI)`라고도 합니다. 이는 객체가 생성자 인수, 팩토리 메서드에 대한 인수 또는 객체
-> 인스턴스가
-> 생성되거나 팩토리 메서드에서 반환된 후 객체 인스턴스에 설정된 속성을 통해서만 의존성(함께 작업하는 다른 객체)을 정의하는 프로세스입니다. 그 후 컨테이너는 `Bean`을 생성할 때 이러한 의존성을 주입합니다. 이
-> 과정은 기본적으로 클래스의 직접 구성 또는 서비스 로케이터 패턴(디자인 패턴의 종류인 듯?)과 같은 매커니즘을 이용하여 의존성의 인스턴스화 또는 위치를 제어하는 `Bean` 자체의 역방향(말
-> 그대로 `제어의 역전(IoC)`)을 의미합니다.
-
 <br>
 
-The org.springframework.beans and org.springframework.context packages are the basis for Spring Framework’s IoC
-container. The BeanFactory interface provides an advanced configuration mechanism capable of managing any type of
-object. ApplicationContext is a sub-interface of BeanFactory. It adds:
-
-- Easier integration with Spring’s AOP features
-- Message resource handling (for use in internationalization)
-- Event publication
-- Application-layer specific contexts such as the WebApplicationContext for use in web applications.
-
-> org.springframework.beans 및 org.springframework.context 패키지는 스프링 프레임워크의 `IoC 컨테이너`의 기반입니다. `BeanFactory` 인터페이스는 모든 유형의
-> 객체를 관리할 수 있는 고급 구성 매커니즘을 제공합니다. `ApplicationContext`는 `BeanFactory`의 하위 인터페이스입니다. 아래와 같이 추가됩니다. <br>
-> - 스프링 `AOP(관점 지향 프로그래밍)`와의 쉬운 통합
-> - 메시지 리소스 처리 (국제화에 사용)
-> - 이벤트 게시
-> - 웹 애플리케이션에서 사용하기 위한 `WebApplicationContext`와 같은 애플리케이션 계층별 컨텍스트
-
-<br>
-
-In short, the BeanFactory provides the configuration framework and basic functionality, and the ApplicationContext adds
-more enterprise-specific functionality. The ApplicationContext is a complete superset of the BeanFactory and is used
-exclusively in this chapter in descriptions of Spring’s IoC container. For more information on using the BeanFactory
-instead of the ApplicationContext, see the section covering the BeanFactory API.
-
-> 즉, `BeanFactory`는 구성 프레임워크와 기본 기능을 제공하고, `ApplicationConext`는 보다 엔터프라이즈에 특화된 기능을 추가합니다. `ApplicationContext`
-> 는 `BeanFactory`의 완전한 상위 집합이며, 이 장에서는 스프링의 IoC 컨테이너에 대한 설명에서 홀로 사용됩니다. `ApplicationConext` 대신 `BeanFactory`를 사용하는 방법에
-> 대한 자세한 내용은 `BeanFactory API`를 다루는 섹션을 참고할 수 있습니다.
-
-<br>
-
-In Spring, the objects that form the backbone of your application and that are managed by the Spring IoC container are
-called beans. A bean is an object that is instantiated, assembled, and managed by a Spring IoC container. Otherwise, a
-bean is simply one of many objects in your application. Beans, and the dependencies among them, are reflected in the
-configuration metadata used by a container.
-
-> 스프링에서는 애플리케이션의 근간을 만들고, 스프링 `IoC 컨테이너`에 의해 관리되는 객체를 `Bean`이라고 합니다. `Bean`은 스프링 `IoC 컨테이너`에 의해 인스턴스화되고, 결합되고, 관리되는
-> 객체입니다. 그렇지 않으면 `Bean`은 애플리케이션의 많은 객체 중 하나에 불과합니다. `Bean`과 `Bean` 간의 의존성은 컨테이너에서 사용하는 구성 메타데이터에 반영됩니다. 
-
-<br>
-
-## 1.2. Container Overview
+# Container Overview
 
 The org.springframework.context.ApplicationContext interface represents the Spring IoC container and is responsible for
 instantiating, configuring, and assembling the beans. The container gets its instructions on what objects to
@@ -133,7 +86,7 @@ executable system or application.
 
 <br>
 
-# 1.2.1. Configuration Metadata
+## Configuration Metadata
 
 As the preceding diagram shows, the Spring IoC container consumes a form of configuration metadata. This configuration
 metadata represents how you, as an application developer, tell the Spring container to instantiate, configure, and
@@ -232,7 +185,7 @@ objects is not shown in this example. See Dependencies for more information.
 
 <br>
 
-# 1.2.2. Instantiating a Container
+## Instantiating a Container
 
 The location path or paths supplied to an ApplicationContext constructor are resource strings that let the container
 load configuration metadata from a variety of external resources, such as the local file system, the Java CLASSPATH, and
@@ -320,7 +273,7 @@ an object’s dependencies, see Dependencies.
 
 <br>
 
-# 1.2.2 Composing XML-based Configuration Metadata
+### Composing XML-based Configuration Metadata
 
 It can be useful to have bean definitions span multiple XML files. Often, each individual XML configuration file
 represents a logical layer or module in your architecture.
@@ -387,7 +340,7 @@ are available in a selection of XML namespaces provided by Spring — for exampl
 
 <br>
 
-# 1.2.2. The Groovy Bean Definition DSL
+### 1.2.2. The Groovy Bean Definition DSL
 
 As a further example for externalized configuration metadata, bean definitions can also be expressed in Spring’s Groovy
 Bean Definition DSL, as known from the Grails framework. Typically, such configuration live in a ".groovy" file with the
@@ -396,14 +349,14 @@ structure shown in the following example:
 > 외부화된 구성 메타데이터에 대한 또 다른 예로, 빈 정의는 `Grails` 프레임워크에서 알려진 것처럼 스프링의 `Groovy Bean Definition DSL`로 표현할 수도 있습니다. 일반적으로 이런 구성은
 > 아래와 같은 구조의 `.groovy` 파일에 저장됩니다.
 
-```java
+```groovy
 beans {
     dataSource(BasicDataSource) {
         driverClassName = "org.hsqldb.jdbcDriver"
         url = "jdbc:hsqldb:mem:grailsDB"
         username = "sa"
         password = ""
-        settings = [mynew:"setting"]
+        settings = [mynew: "setting"]
     }
     sessionFactory(SessionFactory) {
         dataSource = dataSource
@@ -420,3 +373,86 @@ This configuration style is largely equivalent to XML bean definitions and even 
 namespaces. It also allows for importing XML bean definition files through an importBeans directive.
 
 > 이 구성 스타일은 XML 빈 정의와 거의 동일하고 스프링의 XML 구성 네임스페이스도 지원합니다. 또한 `importBeans` 지시문을 통해 XML 빈 정의 파일을 가져올 수 있습니다.
+
+<br>
+
+## 1.2.3. Using the Container
+
+The ApplicationContext is the interface for an advanced factory capable of maintaining a registry of different beans and
+their dependencies. By using the method T getBean(String name, Class<T> requiredType), you can retrieve instances of
+your beans.
+
+> `ApplicationContext`는 다양한 빈과 그 의존성의 레지스트리를 유지할 수 있는 고급 팩토리를 위한 인터페이스입니다. 메서드 `T getBean(String name, Class<T>
+> requiredType)을 이용하여 빈의 인스턴스를 검색할 수 있습니다.
+
+<br>
+
+The ApplicationContext lets you read bean definitions and access them, as the following example shows:
+
+> 아래의 예제에서 볼 수 있듯이, `ApplicationContext`를 사용하면 빈 정의를 읽고 액세스할 수 있습니다.
+
+```java
+// create and configure beans
+// 빈을 생성하고 구성합니다
+ApplicationContext context = new ClassPathXmlApplicationContext("services.xml", "daos.xml");
+
+// retrieve configured instance
+// 구성된 인스턴스를 검색합니다
+PetStoreService service = context.getBean("petStore", PetStoreService.class);
+
+// use configured instance
+// 구성된 인스턴스를 사용합니다
+List<String> userList = service.getUsernameList();
+```
+
+With Groovy configuration, bootstrapping looks very similar. It has a different context implementation class which is
+Groovy-aware (but also understands XML bean definitions). The following example shows Groovy configuration:
+
+> `Groovy` 구성을 사용하면, 부트스트랩이 매우 비슷해 보입니다. 여기에는 다른 컨텍스트 구현 클래스가 있는데, 이 클래스는 `Groovy`를 인식하지만, XML 빈 정의도 이해합니다. 아래의
+> 예제는 `Groovy` 구성을 보여줍니다.
+
+```java
+ApplicationContext context = new GenericGroovyApplicationContext("services.groovy", "daos.groovy");
+```
+
+The most flexible variant is GenericApplicationContext in combination with reader delegates — for example, with
+XmlBeanDefinitionReader for XML files, as the following example shows:
+
+
+> 가장 유연한 변형은 아래의 예제에서 볼 수 있듯이, XML 파일을 위한 `XmlBeanDefinitionReader`와 같이 독자의 대표(reader delegates)와 함께
+> 사용하는 `GenericApplicationContext`
+> 입니다.
+
+```java
+GenericApplicationContext context = new GenericApplicationContext();
+new XmlBeanDefinitionReader(context).loadBeanDefinitions("services.xml", "daos.xml");
+context.refresh();
+```
+
+You can also use the GroovyBeanDefinitionReader for Groovy files, as the following example shows:
+
+> 또한 아래 예제에서 볼 수 있듯이, `Groovy` 파일에 `GroovyBeanDefinitionReader`를 사용할 수 있습니다.
+
+```java
+GenericApplicationContext context = new GenericApplicationContext();
+new GroovyBeanDefinitionReader(context).loadBeanDefinitions("services.groovy", "daos.groovy");
+context.refresh();
+```
+
+You can mix and match such reader delegates on the same ApplicationContext, reading bean definitions from diverse
+configuration sources.
+
+> 이러한 독자의 대표(reader delegates)를 동일한 애플리케이션 컨텍스트에서 섞고 매치하여 다양한 구성 소스의 빈 정의를 읽을 수 있습니다.
+
+<br>
+
+You can then use getBean to retrieve instances of your beans. The ApplicationContext interface has a few other methods
+for retrieving beans, but, ideally, your application code should never use them. Indeed, your application code should
+have no calls to the getBean() method at all and thus have no dependency on Spring APIs at all. For example, Spring’s
+integration with web frameworks provides dependency injection for various web framework components such as controllers
+and JSF-managed beans, letting you declare a dependency on a specific bean through metadata (such as an autowiring
+annotation).
+
+> 그런 다음 `getBean`을 이용하여 빈의 인스턴스를 검색할 수 있습니다. `ApplicationContext` 인터페이스에는 빈을 검색하는 몇 가지 다른 메서드가 있지만, 이상적으로는 애플리케이션 코드에서
+> 이러한 메서드를 사용하지 말아야 합니다. 실제로 애플리케이션 코드에는 `getBean()` 메서드에 대한 호출이 전혀 없어야 합니다. 즉, 스프링 API에 대한 의존성이 전혀 없어야 합니다. 예를 들어, 스프링과
+> 웹 프레임워크의 통합은 컨트롤러 및 JSF 관리 빈과 같은 다양한 웹 프레임워크 구성 요소에 대한 의존성 주입을 제공하므로 메타데이터(예: 오토와이어 주석)를 통해 특정 빈에 대한 의존성을 선언할 수 있습니다.

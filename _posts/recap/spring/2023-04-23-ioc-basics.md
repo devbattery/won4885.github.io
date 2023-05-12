@@ -14,19 +14,13 @@ date: 2023-04-23
 last_modified_at: 2023-04-23
 ---
 
-> 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 이를 일주일 단위로 계속 정리해나가는 중입니다.
+> 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 일주일 단위로 정리해 나가고 있습니다.
 
 <br>
 
-## 기록
+# 기록
 
 - [IoC 컨테이너 공식문서 번역 (Introduction to the Spring IoC Container and Beans)](https://sully-tech.dev/spring/ioc-introduction/)
-
-<br>
-
-## Reference
-
-- [Spring 공식 문서](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)
 
 <br>
 
@@ -456,3 +450,9 @@ annotation).
 > 그런 다음 `getBean`을 이용하여 빈의 인스턴스를 검색할 수 있습니다. `ApplicationContext` 인터페이스에는 빈을 검색하는 몇 가지 다른 메서드가 있지만, 이상적으로는 애플리케이션 코드에서
 > 이러한 메서드를 사용하지 말아야 합니다. 실제로 애플리케이션 코드에는 `getBean()` 메서드에 대한 호출이 전혀 없어야 합니다. 즉, 스프링 API에 대한 의존성이 전혀 없어야 합니다. 예를 들어, 스프링과
 > 웹 프레임워크의 통합은 컨트롤러 및 JSF 관리 빈과 같은 다양한 웹 프레임워크 구성 요소에 대한 의존성 주입을 제공하므로 메타데이터(예: 오토와이어 주석)를 통해 특정 빈에 대한 의존성을 선언할 수 있습니다.
+
+<br>
+
+# Reference
+
+- [Spring 공식 문서](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)

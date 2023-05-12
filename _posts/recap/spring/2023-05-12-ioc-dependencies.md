@@ -14,21 +14,15 @@ date: 2023-05-12
 last_modified_at: 2023-05-12
 ---
 
-> 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 이를 일주일 단위로 계속 정리해나가는 중입니다.
+> 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 일주일 단위로 정리해 나가고 있습니다.
 
 <br>
 
-## 기록
+# 기록
 
 - [IoC 컨테이너 공식문서 번역 (Introduction to the Spring IoC Container and Beans)](https://sully-tech.dev/spring/ioc-introduction/)
 - [IoC 컨테이너 공식문서 번역 (Container Overview)](https://sully-tech.dev/spring/ioc-basics/)
 - [IoC 컨테이너 공식문서 번역 (Bean OverView)](https://sully-tech.dev/spring/ioc-definition/)
-
-<br>
-
-## Reference
-
-- [Spring 공식 문서](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)
 
 <br>
 
@@ -352,3 +346,9 @@ setter methods, then constructor injection may be the only available form of DI.
 <br>
 
 추가 예정...
+
+<br>
+
+# Reference
+
+- [Spring 공식 문서](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)

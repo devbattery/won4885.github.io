@@ -14,10 +14,6 @@ date: 2023-04-16
 last_modified_at: 2023-04-16
 ---
 
-## Reference
-
-- [Spring 공식 문서](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)
-
 > 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 일주일 단위로 정리해 나가고 있습니다.
 
 <br>
@@ -76,3 +72,9 @@ configuration metadata used by a container.
 
 > 스프링에서는 애플리케이션의 근간을 만들고, 스프링 `IoC 컨테이너`에 의해 관리되는 객체를 `Bean`이라고 합니다. `Bean`은 스프링 `IoC 컨테이너`에 의해 인스턴스화되고, 결합되고, 관리되는
 > 객체입니다. 그렇지 않으면 `Bean`은 애플리케이션의 많은 객체 중 하나에 불과합니다. `Bean`과 `Bean` 간의 의존성은 컨테이너에서 사용하는 구성 메타데이터에 반영됩니다. 
+
+<br>
+
+# Reference
+
+- [Spring 공식 문서](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)

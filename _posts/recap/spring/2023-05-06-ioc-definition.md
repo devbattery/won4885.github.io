@@ -14,20 +14,14 @@ date: 2023-05-06
 last_modified_at: 2023-05-06
 ---
 
-> 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 이를 일주일 단위로 계속 정리해나가는 중입니다.
+> 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 일주일 단위로 정리해 나가고 있습니다.
 
 <br>
 
-## 기록
+# 기록
 
 - [IoC 컨테이너 공식문서 번역 (Introduction to the Spring IoC Container and Beans)](https://sully-tech.dev/spring/ioc-introduction/)
 - [IoC 컨테이너 공식문서 번역 (Container Overview)](https://sully-tech.dev/spring/ioc-basics/)
-
-<br>
-
-## Reference
-
-- [Spring 공식 문서](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)
 
 <br>
 
@@ -495,3 +489,9 @@ BeanFactory.getBean call is going to return for the same bean name.
 
 > 특정 빈의 실제 런타임 유형을 알아내는 권장 방법은 지정된 빈 이름에 대한 `BeanFactory.getType`을 호출하는 것입니다. 이 함수는 위의 든 경우를 고려하여 동일한 빈 이름에
 > 대해 `BeanFactory.getType` 호출이 반환할 객체의 유형을 리턴합니다.
+
+<br>
+
+# Reference
+
+- [Spring 공식 문서](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)

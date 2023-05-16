@@ -16,6 +16,9 @@ main:
 categories:
   - title: "📈 Algorithms"
     children:
+      - title: "Recap"
+        url: /recap/
+        category: "Recap"
       - title: "LeetCode"
         url: /leetcode/
         category: "LeetCode"

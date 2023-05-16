@@ -3,7 +3,7 @@ title: "[알고리즘 구현] 순열과 조합 구현 (Python)"
 excerpt: "Permutation, Combination, 재귀, 백트래킹, 그리디"
 
 categories:
-  - recap
+  - Recap
 tags:
   - [python, permutation, combinaiton]
 
@@ -14,7 +14,6 @@ date: 2023-04-09
 last_modified_at: 2023-04-09
 ---
 
-> 순열과 조합은 자료 구조가 아니지만, 구현에 대한 카테고리로 묶어 Data Structure 카테고리에 넣었다.
 
 # 개요
 

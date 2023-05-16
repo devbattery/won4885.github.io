@@ -3,7 +3,7 @@ title: "[이코테] 코딩 테스트를 위한 파이썬 문법"
 excerpt: "파이썬 재밌다"
 
 categories:
-  - recap
+  - Recap
 tags:
   - [python]
 
@@ -13,9 +13,6 @@ toc_sticky: true
 date: 2023-02-25
 last_modified_at: 2023-02-25
 ---
-
-> 여기에 정리하는 것보다 그냥 실습 코드만 쭉 적는 게 훨씬 도움될 듯 <br>
-> 코드만 보고 잘 이해가 안 가면 책 다시 정독
 
 # 배열 복사
 

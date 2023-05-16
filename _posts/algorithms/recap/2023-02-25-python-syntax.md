@@ -3,7 +3,7 @@ title: "[이코테] 코딩 테스트를 위한 파이썬 문법"
 excerpt: "파이썬 재밌다"
 
 categories:
-  - data-structure
+  - recap
 tags:
   - [python]
 

@@ -23,7 +23,7 @@ last_modified_at: 2023-05-19
 - [IoC 컨테이너 공식문서 번역 (Introduction to the Spring IoC Container and Beans)](https://sully-tech.dev/spring/ioc-introduction/)
 - [IoC 컨테이너 공식문서 번역 (Container Overview)](https://sully-tech.dev/spring/ioc-basics/)
 - [IoC 컨테이너 공식문서 번역 (Bean OverView)](https://sully-tech.dev/spring/ioc-definition/)
-- [IoC 컨테이너 공식문서 번역 (Dependencies and Configuration in Detail)](https://sully-tech.dev/spring/dependencies/)
+- [IoC 컨테이너 공식문서 번역 (Dependencies and Configuration in Detail)](https://sully-tech.dev/spring/ioc-dependencies/)
 
 <br>
 

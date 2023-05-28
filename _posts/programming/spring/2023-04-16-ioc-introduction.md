@@ -18,6 +18,17 @@ last_modified_at: 2023-04-16
 
 <br>
 
+# 기록
+
+- [Introduction to the Spring IoC Container and Beans](https://sully-tech.dev/spring/ioc-introduction/)
+- [Container Overview](https://sully-tech.dev/spring/ioc-basics/)
+- [Bean OverView](https://sully-tech.dev/spring/ioc-definition/)
+- [Dependencies](https://sully-tech.dev/spring/ioc-dependencies/)
+    - [Dependency Injection](https://sully-tech.dev/spring/ioc-factory-collaborators/)
+    - [Dependencies and Configuration in Detail](https://sully-tech.dev/spring/ioc-factory-properties-detailed/)
+
+<br>
+
 # Introduction to the Spring IoC Container and Beans
 
 This chapter covers the Spring Framework implementation of the Inversion of Control (IoC) principle. IoC is also known

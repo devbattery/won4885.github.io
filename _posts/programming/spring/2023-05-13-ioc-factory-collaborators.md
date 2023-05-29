@@ -1,6 +1,6 @@
 ---
-title: "[Spring] IoC 컨테이너 공식문서 번역 (Dependencies)"
-excerpt: "의존성"
+title: "[Spring] IoC 컨테이너 공식문서 번역 (Dependency Injection)"
+excerpt: "의존성 주입"
 
 categories:
   - Spring
@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2023-05-12
-last_modified_at: 2023-05-12
+date: 2023-05-13
+last_modified_at: 2023-05-13
 ---
 
 > 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 일주일 단위로 정리해 나가고 있습니다.

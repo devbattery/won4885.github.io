@@ -71,6 +71,8 @@ autowiring per bean and can thus choose which ones to autowire. The following ta
 | `byType`      | Lets a property be autowired if exactly one bean of the property type exists in the container. If more than one exists, a fatal exception is thrown, which indicates that you may not use byType autowiring for that bean. If there are no matching beans, nothing happens (the property is not set).                                         |
 | `constructor` | Analogous to byType but applies to constructor arguments. If there is not exactly one bean of the constructor argument type in the container, a fatal error is raised.                                                                                                                                                                        |
 
+<br>
+
 | Mode          | Explanation                                                                                                                                                                                                        |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `no`          | (기본값) `autowiring` 없음. bean 참조는 `ref` 요소로 정의해야 합니다. `collaborators`를 명시적으로 지정하면 제어 및 명확성이 향상되므로, 대규머 배포의 경우 기본 설정을 변경하는 것은 권장되지 않습니다. 어느 정도는 시스템의 구조를 문서화합니다.                                                      |

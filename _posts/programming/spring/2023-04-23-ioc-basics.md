@@ -26,6 +26,9 @@ last_modified_at: 2023-04-23
 - [Dependencies](https://sully-tech.dev/spring/ioc-dependencies/)
     - [Dependency Injection](https://sully-tech.dev/spring/ioc-factory-collaborators/)
     - [Dependencies and Configuration in Detail](https://sully-tech.dev/spring/ioc-factory-properties-detailed/)
+    - [Using depends-on](https://sully-tech.dev/spring/ioc-factory-dependson/)
+    - [Lazy-initialized Beans](https://sully-tech.dev/spring/ioc-factory-lazy-init/)
+    - [Autowiring Collaborators](https://sully-tech.dev/spring/ioc-factory-autowire/)
 
 <br>
 

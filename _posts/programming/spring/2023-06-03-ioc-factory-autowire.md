@@ -29,6 +29,7 @@ last_modified_at: 2023-06-03
     - [Using depends-on](https://sully-tech.dev/spring/ioc-factory-dependson/)
     - [Lazy-initialized Beans](https://sully-tech.dev/spring/ioc-factory-lazy-init/)
     - [Autowiring Collaborators](https://sully-tech.dev/spring/ioc-factory-autowire/)
+    - [Method Injection](https://sully-tech.dev/spring/ioc-factory-method-injection/)
 
 <br>
 
@@ -95,7 +96,106 @@ instances that match the expected type, and the Map instance’s keys contain th
 
 # Limitations and Disadvantages of Autowiring
 
-다음 이 시간에..
+Autowiring works best when it is used consistently across a project. If autowiring is not used in general, it might be
+confusing to developers to use it to wire only one or two bean definitions.
+
+> `autowiring`은 프로젝트 전체에서 일관되게 사용할 때 가장 효과적입니다. 일반적으로 `autowiring`을 사용하지 않는 경우, 개발자가 한두 개의 bean 정의만 묶는 데 `autowiring`을
+> 사용하면 혼란스러울 수 있습니다.
+
+<br>
+
+Consider the limitations and disadvantages of autowiring:
+
+> `autowiring`의 한계와 단점을 고려하세요:
+
+<br>
+
+- Explicit dependencies in property and constructor-arg settings always override autowiring. You cannot autowire simple
+  properties such as primitives, Strings, and Classes (and arrays of such simple properties). This limitation is
+  by-design.
+- Autowiring is less exact than explicit wiring. Although, as noted in the earlier table, Spring is careful to avoid
+  guessing in case of ambiguity that might have unexpected results. The relationships between your Spring-managed
+  objects are no longer documented explicitly.
+- Wiring information may not be available to tools that may generate documentation from a Spring container.
+- Multiple bean definitions within the container may match the type specified by the setter method or constructor
+  argument to be autowired. For arrays, collections, or Map instances, this is not necessarily a problem. However, for
+  dependencies that expect a single value, this ambiguity is not arbitrarily resolved. If no unique bean definition is
+  available, an exception is thrown.
+
+> - `property` 및 `constructor-arg` 설정의 명시적 의존성은 항상 `autowiring`을 `override`
+    합니다. `Primitives(그니까 int, float 같은 거)`, `String`, `Classes(및 이러한 단순 프로퍼티의 배열)`와 같은 단순 프로퍼티는 `autowire`할 수 없습니다. 이
+    제한은 설계에 의한 것입니다.
+> - `autowiring`은 명시적 `wiring`보다 정확도가 떨어집니다. 하지만 앞의 표에서 언급했듯이, 스프링은 모호한 경우 예상치 못한 결과를 초래할 수 있는 결과를 피하기 위해 주의를 기울입니다.
+    스프링으로 관리되는 객체 간의 관계는 더 이상 명시적으로 문서화되지 않습니다.
+> - 스프링 컨테이너에서 문서를 생성할 수 있는 툴에서는 `wiring` 정보를 사용할 수 없을 수 있습니다.
+> - 컨테이너 내의 여러 bean 정의가 `setter` 메서드 또는 생성자 인수에 지정된 타입과 일치하여 `autowire`될 수 있습니다. 배열, 컬렉션 또는 `Map` 인스턴스의 경우, 이것이 반드시 문제가
+    되는 것은 아닙니다. 그러나 단일 값을 기대하는 의존성의 경우, 이러한 모호성이 임의로 해결되지 않습니다. 고유한 bean 정의를 사용할 수 없는 경우, 예외가 발생합니다.
+
+<br>
+
+In the latter scenario, you have several options:
+
+> 후자의 시나리오에서는, 몇 가지 옵션이 있습니다:
+
+<br>
+
+- Abandon autowiring in favor of explicit wiring.
+- Avoid autowiring for a bean definition by setting its autowire-candidate attributes to false, as described in the next
+  section.
+- Designate a single bean definition as the primary candidate by setting the primary attribute of its <bean/> element to
+  true.
+- Implement the more fine-grained control available with annotation-based configuration, as described in
+  Annotation-based Container Configuration.
+
+> - `autowiring`을 포기하고 명시적 `wiring`을 사용하세요.
+> - 다음 섹션에 설명된 대로 `autowire-candidate` 속성을 `false`로 설정하여 bean 정의에 대한 `autowiring`을 방지합니다.
+> - `<bean/>` 요소의 `primary` 속성을 `true`로 설정하여 단일 bean 정의를 `primary` 후보로 지정합니다.
+> - 주석-기반 컨테이너 구성에 설명된 대로 주석-기반 구성에서 사용할 수 있는 보다 세분화된 제어 기능을 구현하세요. (세분화된 제어 기능이 아직은 뭔지 모르겠음. 아래아래아래아래 섹션에 있으니 그때까지
+    기다리자.)
+
+<br>
+
+# Excluding a Bean from Autowiring
+
+On a per-bean basis, you can exclude a bean from autowiring. In Spring’s XML format, set the autowire-candidate
+attribute of the <bean/> element to false. The container makes that specific bean definition unavailable to the
+autowiring infrastructure (including annotation style configurations such as @Autowired ).
+
+> bean 단위로 `autowiring`에서 bean을 제외할 수 있습니다. 스프링의 XML 형식에서, `<bean/>` 요소의 `autowire-candiate` 속성을 `false`로 설정합니다. 컨테이너는
+> 해당 특정 bean 정의를 `autowiring` 인프라 구조에서 사용할 수 없게 만듭니다(`@Autowired`와 같은 어노테이션 스타일 구성 포함).
+
+<br>
+
+The autowire-candidate attribute is designed to only affect type-based autowiring. It does not affect explicit
+references by name, which get resolved even if the specified bean is not marked as an autowire candidate. As a
+consequence, autowiring by name nevertheless injects a bean if the name matches.
+{: .notice--primary}
+
+> `autowire-candiate` 속성은 타입-기반 `autowiring`에만 영향을 미치도록 설계되었습니다. 지정된 bean이 `autowire` 후보로 표시되지 않은 경우에도 해결되는 이름에 의한 명시적
+> 참조에는 영향을 미치지 않습니다. 따라서, 이름에 의한 `autowiring`은 이름이 일치하는 경우 bean을 삽입합니다.
+
+<br>
+
+You can also limit autowire candidates based on pattern-matching against bean names. The top-level <beans/> element
+accepts one or more patterns within its default-autowire-candidates attribute. For example, to limit autowire candidate
+status to any bean whose name ends with Repository, provide a value of *Repository. To provide multiple patterns, define
+them in a comma-separated list. An explicit value of true or false for a bean definition’s autowire-candidate attribute
+always takes precedence. For such beans, the pattern matching rules do not apply.
+
+> bean 이름에 대한 패턴 매칭을 기반으로 `autowiring` 후보를 제한할 수도 있습니다. 최상위 `<beans/>` 요소는 `default-autowire-candidates` 속성 내에서 하나 이상의
+> 패턴을 허용합니다. 예를 들어, `autowire` 후보 상태를 이름이 `Repository`로 끝나는 모든 bean으로 제한하려면 `*Repsository` 값을 제공합니다. 여러 패턴을 제공하려면, 쉼표로
+> 구분된
+> 목록으로 정의합니다. bean 정의의 `autowire-candidate` 속성에 대해 `true` 또는 `false`의 명시적 값이 항상 우선시됩니다. 이러한 bean의 경우, 패턴 매칭 규칙이 적용되지
+> 않습니다.
+
+<br>
+
+These techniques are useful for beans that you never want to be injected into other beans by autowiring. It does not
+mean that an excluded bean cannot itself be configured by using autowiring. Rather, the bean itself is not a candidate
+for autowiring other beans.
+
+> 이러한 기술은 `autowiring`을 통해 다른 bean에 주입하지 않으려는 bean에 유용합니다. 그렇다고 `autowiring`을 사용하여 제외된 bean 자체를 구성할 수 없다는 의미는 아닙니다. 오히려
+> 해당 bean 자체는 다른 bean을 `autowiring`할 수 있는 후보가 아닙니다.
 
 <br>
 

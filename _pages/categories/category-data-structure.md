@@ -5,7 +5,7 @@ permalink: /data-structure/
 author_profile: true
 taxonomy: data-structure
 sidebar:
-  nav: "categories"
+  nav: "docs"
 ---
 
 {% assign posts = site.categories.data-structure %}

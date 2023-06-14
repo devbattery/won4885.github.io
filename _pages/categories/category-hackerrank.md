@@ -5,7 +5,7 @@ permalink: /hackerrank/
 author_profile: true
 taxonomy: HackerRank
 sidebar:
-  nav: "categories"
+  nav: "docs"
 ---
 
 {% assign posts = site.categories.hackerrank %}

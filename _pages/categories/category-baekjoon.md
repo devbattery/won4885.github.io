@@ -5,7 +5,7 @@ permalink: /baekjoon/
 author_profile: true
 taxonomy: Baekjoon
 sidebar:
-  nav: "categories"
+  nav: "docs"
 ---
 
 {% assign posts = site.categories.baekjoon %}

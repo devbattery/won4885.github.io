@@ -5,7 +5,7 @@ permalink: /programmers/
 author_profile: true
 taxonomy: Programmers
 sidebar:
-  nav: "categories"
+  nav: "docs"
 ---
 
 {% assign posts = site.categories.programmers %}

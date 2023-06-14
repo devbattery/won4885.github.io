@@ -296,4 +296,18 @@ defaults:
       related: true
       mathjax: true
     sidebar:
-       nav: "docs"
+       nav: "categories"
+  # _pages 추가
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: false
+      related: true
+      mathjax: true
+    sidebar:
+       nav: "categories"

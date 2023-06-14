@@ -5,7 +5,7 @@ permalink: /java/
 author_profile: true
 taxonomy: Java
 sidebar:
-  nav: "docs"
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.java %}

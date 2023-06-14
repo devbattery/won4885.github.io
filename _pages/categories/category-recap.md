@@ -5,7 +5,7 @@ permalink: /recap/
 author_profile: true
 taxonomy: Recap
 sidebar:
-  nav: "docs"
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.recap %}

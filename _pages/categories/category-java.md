@@ -4,8 +4,6 @@ layout: category
 permalink: /java/
 author_profile: true
 taxonomy: Java
-sidebar:
-  nav: "categories"
 ---
 
 {% assign posts = site.categories.java %}

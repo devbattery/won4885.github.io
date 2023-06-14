@@ -4,8 +4,6 @@ layout: category
 permalink: /hackerrank/
 author_profile: true
 taxonomy: HackerRank
-sidebar:
-  nav: "categories"
 ---
 
 {% assign posts = site.categories.hackerrank %}

@@ -4,8 +4,6 @@ layout: category
 permalink: /inflearn/
 author_profile: true
 taxonomy: Inflearn
-sidebar:
-  nav: "categories"
 ---
 
 {% assign posts = site.categories.inflearn %}

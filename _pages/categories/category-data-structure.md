@@ -4,8 +4,6 @@ layout: category
 permalink: /data-structure/
 author_profile: true
 taxonomy: data-structure
-sidebar:
-  nav: "categories"
 ---
 
 {% assign posts = site.categories.data-structure %}

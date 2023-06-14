@@ -12,8 +12,8 @@ main:
   # - title: "Categories"
   #   url: /categories/
 
-# sidebar navigation (categories)
-categories:
+# sidebar navigation (docs)
+docs:
   - title: "📈 Algorithms"
     children:
       - title: "Recap"

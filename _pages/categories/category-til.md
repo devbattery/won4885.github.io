@@ -5,7 +5,7 @@ permalink: /til/
 author_profile: true
 taxonomy: TIL
 sidebar:
-  nav: "categories"
+  nav: "docs"
 ---
 
 {% assign posts = site.categories.til %}

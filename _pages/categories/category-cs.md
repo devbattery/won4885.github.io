@@ -5,7 +5,7 @@ permalink: /cs/
 author_profile: true
 taxonomy: CS
 sidebar:
-  nav: "docs"
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.cs %}

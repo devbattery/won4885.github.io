@@ -5,7 +5,7 @@ permalink: /codeforces/
 author_profile: true
 taxonomy: Codeforces
 sidebar:
-  nav: "docs"
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.codeforces %}

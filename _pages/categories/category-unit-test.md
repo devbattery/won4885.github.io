@@ -5,7 +5,7 @@ permalink: /unit-test/
 author_profile: true
 taxonomy: unit-test
 sidebar:
-  nav: "docs"
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.unit_test %}

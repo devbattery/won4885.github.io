@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 
 date: 2023-06-10
-last_modified_at: 2023-06-10
+last_modified_at: 2023-06-17
 ---
 
 > 현재 [매일 공식 문서를 읽고 해석하는 챌린지](https://github.com/yeonise/daily-code-snippets)를 진행 중이며, 일주일 단위로 정리해 나가고 있습니다.
@@ -210,7 +210,165 @@ example:
 
 <br>
 
-다음 이 시간에..
+The bean identified as commandManager calls its own createCommand() method whenever it needs a new instance of the
+myCommand bean. You must be careful to deploy the myCommand bean as a prototype if that is actually what is needed. If
+it is a singleton, the same instance of the myCommand bean is returned each time.
+
+> `commandManager`로 식별된 bean은 `myCommnad` bean의 새 인스턴스가 필요할 대마다 자체 `createCommand()` 메서드를 호출합니다. 실제로 필요한 경우, `myCommand`
+> bean을 프로토타입으로 배포하는데 주의해야 합니다. 싱글톤인 경우, 매번 동일한 `myCommand` bean 인스턴스가 반환됩니다.
+
+<br>
+
+Alternatively, within the annotation-based component model, you can declare a lookup method through the @Lookup
+annotation, as the following example shows:
+
+> 또는 아래 예시와 같이, 어노테이션 기반 컴포넌트 모델에서 `@Lookup` 어노테이션을 통해 조회 메서드를 선언할 수 있습니다:
+
+```java
+public abstract class CommandManager {
+
+	public Object process(Object commandState) {
+		Command command = createCommand();
+		command.setState(commandState);
+		return command.execute();
+	}
+
+	@Lookup("myCommand")
+	protected abstract Command createCommand();
+}
+```
+
+<br>
+
+Or, more idiomatically, you can rely on the target bean getting resolved against the declared return type of the lookup
+method:
+
+> 또는 더 관용적으로, 대상 bean이 조회 메서드의 선언된 리턴 타입에 대해 확인되는 것에 의존할 수 있습니다:
+
+```java
+public abstract class CommandManager {
+
+	public Object process(Object commandState) {
+		Command command = createCommand();
+		command.setState(commandState);
+		return command.execute();
+	}
+
+	@Lookup
+	protected abstract Command createCommand();
+}
+```
+
+Note that you should typically declare such annotated lookup methods with a concrete stub implementation, in order for
+them to be compatible with Spring’s component scanning rules where abstract classes get ignored by default. This
+limitation does not apply to explicitly registered or explicitly imported bean classes.
+
+> 추상 클래스가 기본적으로 무시되는 스프링의 컴포넌트 검색 규칙과 호환되도록 하려면, 일반적으로 아래와 같은 주석이 달린 조회 메서드를 구체적인 stub 구현으로 선언해야 한다는 점을 유의하세요. 이 제한은
+> 명시적으로 등록되거나, 명시적으로 가져온 bean 클래스에는 적용되지 않습니다.
+
+<br>
+
+Another way of accessing differently scoped target beans is an ObjectFactory/ Provider injection point. See Scoped Beans
+as Dependencies. You may also find the ServiceLocatorFactoryBean (in the org.springframework.beans.factory.config
+package) to be useful.
+{. :notice--primary}
+
+> 다른 범위의 대상 bean에 접근하는 또 다른 방법은 `ObjectFactory`/`Provider` 주입 포인트입니다. 범위가 지정된 bean을 의존성으로 참고하세요.
+> 또한 `org.springframwork.beans.factory.config` 패키지 에 있는 `ServiceLocatorFactoryBean`이 유용할 수 있습니다.
+
+<br>
+
+## Arbitrary(임의) Method Replacement
+
+A less useful form of method injection than lookup method injection is the ability to replace arbitrary methods in a
+managed bean with another method implementation. You can safely skip the rest of this section until you actually need
+this functionality.
+
+> Lookup 메서드 주입보다 덜 유용한 메서드 주입 형태는 관리되는 bean의 임의의 메서드를 다른 메서드 구현으로 대체하는 기능입니다. 이 기능이 실제로 필요할 때까지는 이 섹션의 나머지 부분들을 건너뛰어도
+> 됩니다.
+
+<br>
+
+With XML-based configuration metadata, you can use the replaced-method element to replace an existing method
+implementation with another, for a deployed bean. Consider the following class, which has a method called computeValue
+that we want to override:
+
+> XML-기반 구성 메타데이터를 사용하면 `replaced-method` 요소를 사용하여 배포된 bean에 대해 기존 메서드 구현을 다른 메서드로 대체할 수 있습니다. 재정의하려면 `computeValue`라는
+> 메서드가 있는 다음 클래스를 생각해 보겠습니다:
+
+```java
+public class MyValueCalculator {
+
+	public String computeValue(String input) {
+		// some real code...
+	}
+
+	// some other methods...
+}
+```
+
+<br>
+
+A class that implements the org.springframework.beans.factory.support.MethodReplacer interface provides the new method
+definition, as the following example shows:
+
+> 아래의 예제에서 볼 수 있듯이, `org.springframework.beans.factory.support.MethodReplacer` 인터페이스를 구현하는 클래스는 새로운 메서드 정의를 제공합니다:
+
+```java
+/**
+ * meant to be used to override the existing computeValue(String)
+ * 기존 computeValue(String)를 재정의하는 데 사용됨
+ * implementation in MyValueCalculator
+ * MyValueCalculator 구현
+ */
+public class ReplacementComputeValue implements MethodReplacer {
+
+	public Object reimplement(Object o, Method m, Object[] args) throws Throwable {
+		// get the input value, work with it, and return a computed result
+		// 입력 값을 가져와서, 작업하고, 계산된 결과를 반환
+		String input = (String) args[0];
+		...
+		return ...;
+	}
+}
+```
+
+<br>
+
+The bean definition to deploy the original class and specify the method override would resemble the following example:
+
+> 원본 클래스를 배포하고 메서드 오버라이드를 지정하는 bean 정의는 아래의 예제와 유사합니다:
+
+```xml
+<bean id="myValueCalculator" class="x.y.z.MyValueCalculator">
+	<!-- arbitrary method replacement -->
+	<replaced-method name="computeValue" replacer="replacementComputeValue">
+		<arg-type>String</arg-type>
+	</replaced-method>
+</bean>
+
+<bean id="replacementComputeValue" class="a.b.c.ReplacementComputeValue"/>
+```
+
+You can use one or more <arg-type/> elements within the <replaced-method/> element to indicate the method signature of
+the method being overridden. The signature for the arguments is necessary only if the method is overloaded and multiple
+variants exist within the class. For convenience, the type string for an argument may be a substring of the fully
+qualified type name. For example, the following all match java.lang.String:
+
+> 재정의되는 메서드의 메서드 시그니처를 나타내기 위해 `<replaced-method/>` 요소 내에 하나 이상의 `<arg-type/>` 요소를 사용할 수 있습니다. 인수의 시그니처는 메서드가 오버로드되고,
+> 클래스 내에 여러 변형이 존재하는 경우에만 필요합니다. 편의상 인수의 타입 문자열은 정규화된 타입 이름의 `substring`일 수 있습니다. 예를 들어 아래는 모두 `java.lang.String`과
+> 일치합니다:
+
+```java
+java.lang.String
+String
+Str
+```
+
+Because the number of arguments is often enough to distinguish between each possible choice, this shortcut can save a
+lot of typing, by letting you type only the shortest string that matches an argument type.
+
+> 인수의 수는 가능한 각 선택 사항을 구분하기에 충분한 경우가 많으므로, 이 `shortcut`을 사용하면 인수 유형과 일치하는 가장 짧은 문자열만 입력할 수 있으므로 많은 타이핑을 절약할 수 있습니다.
 
 <br>
 

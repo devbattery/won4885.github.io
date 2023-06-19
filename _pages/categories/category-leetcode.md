@@ -4,6 +4,8 @@ layout: category
 permalink: /leetcode/
 author_profile: true
 taxonomy: LeetCode
+sidebar:
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.leetcode %}

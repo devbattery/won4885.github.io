@@ -4,6 +4,8 @@ layout: category
 permalink: /spring/
 author_profile: true
 taxonomy: Spring
+sidebar:
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.spring %}

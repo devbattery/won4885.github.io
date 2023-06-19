@@ -4,6 +4,8 @@ layout: category
 permalink: /unit-test/
 author_profile: true
 taxonomy: unit-test
+sidebar:
+  nav: "categories"
 ---
 
 {% assign posts = site.categories.unit_test %}

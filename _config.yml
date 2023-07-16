@@ -20,11 +20,11 @@ after_footer_scripts:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Code Diary"
+title                    : "Code D1ary"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sully"
-description              : "Code Diary of Sully"
+description              : "Code D1ary of Sully"
 url                      : "https://coded1ary.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "won4885/won4885.github.io"

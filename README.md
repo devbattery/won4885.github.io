@@ -20,7 +20,8 @@
 ## Custom Features
 
 - Dark/Light Toggle Button
-- [Copy to Clipboard (Code Block)](https://github.com/mmistakes/minimal-mistakes/discussions/2795)
+- [Copy to Clipboard Button (Code Block)](https://github.com/mmistakes/minimal-mistakes/discussions/2795)
+- [Back to Top Button](https://github.com/mmistakes/minimal-mistakes/issues/1731)
 - Style
     - [배달의민족 주아체](http://font.woowahan.com/jua/)
     - Syntax Highlighting

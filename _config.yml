@@ -17,6 +17,8 @@ future: true
 dark_theme_toggle        : true
 after_footer_scripts:
   - /assets/js/custom/dark-theme.js
+  - https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js
+  - assets/js/clipboardrouge.js
 
 # Site Settings
 locale                   : "en-US"

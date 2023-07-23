@@ -8,12 +8,12 @@ sidebar:
   nav: "categories"
 ---
 
-어쩌구 저쩌구 (수정 예정) 백엔드 개발자 정원준입니다.
+(수정 예정) 백엔드 개발자 정원준입니다.
 
 - <a href="mailto:won4885.dev@gmail.com">🍀 Email
 - <a href="https://github.com/won4885">🍖 GitHub</a>
 - <a href="https://instagram.com/coded1ary">🐳 Instagram</a>
-- <a href="https://instagram.com/coded1ary">🍙 Blog</a>
+- <a href="https://coded1ary.com">🍙 Blog</a>
 
 <br>
 

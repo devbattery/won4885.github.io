@@ -3,6 +3,7 @@ title: ""
 permalink: /about/
 layout: single
 comments: true
+author_profile: true
 sidebar:
   nav: "categories"
 ---

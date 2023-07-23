@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "🙇🏻 안녕하세요!"
 permalink: /about/
 layout: single
 comments: true
@@ -8,7 +8,7 @@ sidebar:
   nav: "categories"
 ---
 
-어쩌구 저쩌구 백엔드 개발자 정원준입니다.
+어쩌구 저쩌구 (수정 예정) 백엔드 개발자 정원준입니다.
 
 - <a href="mailto:won4885.dev@gmail.com">🍀 Email
 - <a href="https://github.com/won4885">🍖 GitHub</a>
@@ -19,10 +19,16 @@ sidebar:
 
 ## About Me
 
+- 추가 예정
+
 <br>
 
 ## Tech Stack
 
+- 추가 예정
+
 <br>
 
 ## Education
+
+- 추가 예정

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "About"
 permalink: /about/
 layout: single
 comments: true
@@ -7,9 +7,6 @@ author_profile: true
 sidebar:
   nav: "categories"
 ---
-
-
-## 🙇🏻 안녕하세요!
 
 어쩌구 저쩌구 백엔드 개발자 정원준입니다.
 

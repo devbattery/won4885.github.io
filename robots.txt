@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sully-tech.dev/sitemap.xml
+Sitemap: https://coded1ary.com/sitemap.xml

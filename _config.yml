@@ -133,7 +133,7 @@ author:
       url: "https://github.com/won4885/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/coded1ary/"
+      # url: "https://instagram.com/coded1ary/"
 
 # Site Footer
 footer:
@@ -155,7 +155,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/coded1ary/"
+      # url: "https://instagram.com/coded1ary/"
 
 
 # Reading Files

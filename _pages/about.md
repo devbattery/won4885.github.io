@@ -12,7 +12,6 @@ sidebar:
 
 - <a href="mailto:won4885.dev@gmail.com">🍀 Email
 - <a href="https://github.com/won4885">🍖 GitHub</a>
-- <a href="https://instagram.com/coded1ary">🐳 Instagram</a>
 - <a href="https://coded1ary.com">🍙 Blog</a>
 
 <br>

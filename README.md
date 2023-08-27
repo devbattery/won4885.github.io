@@ -15,7 +15,9 @@
 ## Previous Blog
 
 1. [won4885.github.io-previous](https://github.com/won4885/won4885.github.io-previous)
+    - 기본 `jekyll` 블로그 버전
 2. [won4885.github.io-branch-error](https://github.com/won4885/won4885.github.io-branch-error)
+    - `minimal-mistakes`의 미니멀 버전이지만 브랜치 에러로 레포지토리 이동
 
 ## Custom Features
 

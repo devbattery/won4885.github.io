@@ -31,5 +31,5 @@
     - Blank Quote
 - Code Style
     - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
-- Sidebar Counting
+- Counting Categories
 - [Giscus Comments](https://giscus.app/)

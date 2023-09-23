@@ -22,7 +22,7 @@
 
 ## Custom Features
 
-- Dark/Light Toggle Button
+- [Dark/Light Toggle Button](https://etch-cure.github.io/blog/toggle-dark-mode/)
 - [Copy to Clipboard Button (Code Block)](https://github.com/mmistakes/minimal-mistakes/discussions/2795)
 - [Back to Top Button](https://github.com/mmistakes/minimal-mistakes/issues/1731)
 - Style

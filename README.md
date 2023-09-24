@@ -27,8 +27,6 @@
 - [Back to Top Button](https://github.com/mmistakes/minimal-mistakes/issues/1731)
 - Style
     - [배달의민족 주아체](http://font.woowahan.com/jua/)
-    - Syntax Highlighting
-    - Blank Quote
 - Code Style
     - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - Counting Categories

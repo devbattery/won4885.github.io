@@ -30,4 +30,5 @@
 - Code Style
     - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - Counting Categories
+    - 각각의 포스트에 header 적용
 - [Giscus Comments](https://giscus.app/)

@@ -16,9 +16,10 @@
 ## Previous Blog
 
 1. [won4885.github.io-previous](https://github.com/won4885/won4885.github.io-previous)
-    - 기본 `jekyll` 블로그 버전
+    - 기본 `jekyll` theme
 2. [won4885.github.io-branch-error](https://github.com/won4885/won4885.github.io-branch-error)
-    - `minimal-mistakes`의 미니멀 버전이지만 브랜치 에러로 레포지토리 이동
+    - 순수 `minimal-mistakes` theme
+    - branch error로 인해 repository 이전
 
 ## Custom Features
 
@@ -30,5 +31,5 @@
 - Code Style
     - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - Counting Categories
-    - 각각의 포스트에 header 적용
+    - [nav_list](https://github.com/won4885/won4885.github.io/blob/main/_includes/nav_list)
 - [Giscus Comments](https://giscus.app/)

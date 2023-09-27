@@ -33,3 +33,6 @@
 - Counting Categories
     - [nav_list](https://github.com/won4885/won4885.github.io/blob/main/_includes/nav_list)
 - [Giscus Comments](https://giscus.app/)
+- Post Sidebar
+    - 원래는 메인 페이지에서만 sidebar를 볼 수 있었음
+    - Post 각각의 `sidebar`에 `nav: "categories"` 추가 후 해결

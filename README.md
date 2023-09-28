@@ -1,7 +1,7 @@
 # [Code D1ary](https://coded1ary.com)
 
 - [Powered by Jekyll & Minima Mistakes](https://mmistakes.github.io/minimal-mistakes/)
-- [DNS](https://coded1ary.com)
+- [Google Domain](https://coded1ary.com)
 
 ## Theme
 

@@ -1,7 +1,7 @@
 # [Code D1ary](https://coded1ary.com)
 
 - [Powered by Jekyll & Minima Mistakes](https://mmistakes.github.io/minimal-mistakes/)
-- [DNS](https://coded1ary.com)
+- [Google Domain](https://coded1ary.com)
 
 ## Theme
 
@@ -16,20 +16,23 @@
 ## Previous Blog
 
 1. [won4885.github.io-previous](https://github.com/won4885/won4885.github.io-previous)
-    - 기본 `jekyll` 블로그 버전
+    - 기본 `jekyll` theme
 2. [won4885.github.io-branch-error](https://github.com/won4885/won4885.github.io-branch-error)
-    - `minimal-mistakes`의 미니멀 버전이지만 브랜치 에러로 레포지토리 이동
+    - 순수 `minimal-mistakes` theme
+    - branch error로 인해 repository 이전
 
 ## Custom Features
 
-- Dark/Light Toggle Button
+- [Dark/Light Toggle Button](https://etch-cure.github.io/blog/toggle-dark-mode/)
 - [Copy to Clipboard Button (Code Block)](https://github.com/mmistakes/minimal-mistakes/discussions/2795)
 - [Back to Top Button](https://github.com/mmistakes/minimal-mistakes/issues/1731)
 - Style
     - [배달의민족 주아체](http://font.woowahan.com/jua/)
-    - Syntax Highlighting
-    - Blank Quote
 - Code Style
     - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - Counting Categories
+    - [nav_list](https://github.com/won4885/won4885.github.io/blob/main/_includes/nav_list)
 - [Giscus Comments](https://giscus.app/)
+- Post Sidebar
+    - 원래는 메인 페이지에서만 sidebar를 볼 수 있었음
+    - Post 각각의 `sidebar`에 `nav: "categories"` 추가 후 해결

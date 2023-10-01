@@ -14,7 +14,7 @@ main:
 
 # sidebar navigation (categories)
 categories:
-  - title: "📈 Algorithms"
+  - title: "📈 Algorithm"
     children:
       - title: "Recap"
         url: /recap/

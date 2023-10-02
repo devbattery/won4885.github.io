@@ -45,9 +45,6 @@ categories:
       - title: "Spring"
         url: /spring/
         category: "Spring"
-      - title: "Unit Test"
-        url: /unit-test/
-        category: "unit-test"
   - title: "🖥️ Computing"
     children:
       - title: "Computer Science"

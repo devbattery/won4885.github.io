@@ -52,7 +52,7 @@ vim ~/.zshrc
 
 <img width="703" alt="스크린샷 2023-10-19 오후 3 41 09" src="https://github.com/won4885/won4885.github.io/assets/62871026/a39d426c-912b-488d-843e-0e6316180dcc">
 
-- 나는 현재 bash가 아닌, zsh를 사용하고 있기 떄문에 `zshrc`에서 설정
+- 나는 현재 bash가 아닌, zsh를 사용하고 있기 때문에 `zshrc`에서 설정
 
 <br>
 
@@ -70,9 +70,17 @@ export JAVA_HOME=$JAVA_HOME_17
 
 # 4. zsh 환경 변수 설정 저장
 
+```zsh
+source ~/.zshrc
+```
+
 <img width="735" alt="스크린샷 2023-10-19 오후 3 41 13" src="https://github.com/won4885/won4885.github.io/assets/62871026/bdde4890-6efb-42a5-861f-5d36ec5189d3">
 
 <br>
+
+```zsh
+java -version
+```
 
 # 5. 변경된 Java 버전 확인
 

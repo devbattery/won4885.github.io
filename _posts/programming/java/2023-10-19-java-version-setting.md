@@ -78,10 +78,10 @@ source ~/.zshrc
 
 <br>
 
+# 5. 변경된 Java 버전 확인
+
 ```zsh
 java -version
 ```
-
-# 5. 변경된 Java 버전 확인
 
 <img width="1161" alt="스크린샷 2023-10-19 오후 3 41 20" src="https://github.com/won4885/won4885.github.io/assets/62871026/b230cc2a-7d1c-42d5-8a4b-c6fd0cb6745f">

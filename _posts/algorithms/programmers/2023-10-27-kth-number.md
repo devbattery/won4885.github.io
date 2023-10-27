@@ -13,8 +13,8 @@ toc_sticky: true
 sidebar:
   nav: "categories"
 
-date: 2023-10-26
-last_modified_at: 2023-10-26
+date: 2023-10-27
+last_modified_at: 2023-10-27
 ---
 
 - 레벨 1이라 그런지 생각 없이도 풀 수 있는 문제다.

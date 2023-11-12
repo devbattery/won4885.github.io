@@ -1,12 +1,12 @@
 ---
-title: "Computer Science"
+title: "Network"
 layout: category
-permalink: /cs/
+permalink: /network/
 author_profile: true
-taxonomy: CS
+taxonomy: Network
 sidebar:
   nav: "categories"
 ---
 
-{% assign posts = site.categories.cs %}
+{% assign posts = site.categories.network %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

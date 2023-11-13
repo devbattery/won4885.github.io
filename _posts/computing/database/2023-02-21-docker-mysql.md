@@ -3,7 +3,7 @@ title: "[CS] M1 docker, MySQL 설치, 인텔리제이 연동"
 excerpt: "applie silicon, docker, mysql, vim, locale, connector, "
 
 categories:
-  - CS
+  - Database
 tags:
   - [codesquad]
 
@@ -22,7 +22,7 @@ last_modified_at: 2023-02-21
 # docker 설치
 
 - `homebrew` 명령어 사용으로 설치
-    - `docker-compose`, `docker-machine`을 같이 설치해줌
+  - `docker-compose`, `docker-machine`을 같이 설치해줌
 
 ```
 $ brew install --cask docker
@@ -40,8 +40,8 @@ docker run --platform linux/amd64 --name mysql -d -p 3306:3306 -e MYSQL_ROOT_PAS
 
 - `docker run` 명령어는 컨테이너를 create 후, start 역할
 - `--name` 옵션: 컨테이너 이름 지정
-    - 이름이 중복되면 conflict
-    - 실행중인 컨테이너의 정보를 보려면 `docker ps -a` 커맨드로 확인 가능
+  - 이름이 중복되면 conflict
+  - 실행중인 컨테이너의 정보를 보려면 `docker ps -a` 커맨드로 확인 가능
 - `-d` 옵션: background에서 동작
 - `-p` 옵션: port 매핑
 - `-e` 옵션: environment 환경 설정 key, value 형태로 보냄
@@ -185,7 +185,6 @@ values ('test', 10000.00, '2023-02-20');
 
 <img width="678" alt="스크린샷 2023-02-21 오후 2 26 19" src="https://user-images.githubusercontent.com/62871026/220255354-a21f3a38-e6a3-4af3-ae99-4590ad7268bd.png">
 
-
 # Reference
 
 - [docker docs](https://docs.docker.com/reference/)
@@ -196,7 +195,7 @@ values ('test', 10000.00, '2023-02-20');
 - [locale < 어?](https://velog.io/@kyukim/docker-mysql)
 - [Docker DB](https://woonizzooni.tistory.com/entry/Docker-mysql-%EC%84%A4%EC%B9%98-DB%EC%83%9D%EC%84%B1-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%83%9D%EC%84%B1-%EC%98%88%EC%8B%9C)
 - [MySQL TABLES](https://dasima.xyz/mysql-show-tables/)
-    - [Example](https://jhnyang.tistory.com/307)
+  - [Example](https://jhnyang.tistory.com/307)
 - [Public Key Retrieval is not allowed](https://deeplify.dev/database/troubleshoot/public-key-retrieval-is-not-allowed)
 - [구세주](https://medium.com/tech-learn-share/docker-mysql-access-denied-for-user-172-17-0-1-using-password-yes-c5eadad582d3)
 - [DBConnection Connection 1](https://dlagusgh1.tistory.com/274)

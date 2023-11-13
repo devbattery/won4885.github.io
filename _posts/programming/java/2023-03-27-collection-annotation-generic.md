@@ -3,7 +3,7 @@ title: "[Java] Collection / Annotation / Generic 정리"
 excerpt: "cs 공부"
 
 categories:
-  - CS
+  - Java
 tags:
   - [java]
 

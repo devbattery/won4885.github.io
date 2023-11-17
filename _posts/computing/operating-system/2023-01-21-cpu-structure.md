@@ -1,5 +1,5 @@
 ---
-title: "[CS] CPU 구조 정리"
+title: "[Operating System] CPU 구조 정리"
 excerpt: "dump of memory, fetch, execute, decode..."
 
 categories:

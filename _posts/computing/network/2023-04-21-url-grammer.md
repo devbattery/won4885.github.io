@@ -1,5 +1,5 @@
 ---
-title: "[HTTP] URL 문법, 단축 URL 정리"
+title: "[Network] URL 문법, 단축 URL 정리"
 excerpt: "URL 문법, 단축 URL"
 
 categories:

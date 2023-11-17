@@ -1,5 +1,5 @@
 ---
-title: "[CS] M1 docker, MySQL 설치, 인텔리제이 연동"
+title: "[Database] M1 docker, MySQL 설치, 인텔리제이 연동"
 excerpt: "applie silicon, docker, mysql, vim, locale, connector, "
 
 categories:

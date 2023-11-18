@@ -1,5 +1,5 @@
 ---
-title: "[CS] Java 비동기 프로그래밍 정리 (1)"
+title: "[Java] Java 비동기 프로그래밍 정리 (1)"
 excerpt: "CompletableFuture, 콜백, 동기, 비동기"
 
 categories:

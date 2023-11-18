@@ -1,5 +1,5 @@
 ---
-title: "[CS] Java 함수형 프로그래밍 정리"
+title: "[Java] Java 함수형 프로그래밍 정리"
 excerpt: "람다, 함수형 인터페이스, 클로저, 메서드 참조"
 
 categories:

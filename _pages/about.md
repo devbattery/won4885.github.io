@@ -10,24 +10,18 @@ sidebar:
 
 (수정 예정) 백엔드 개발자 정원준입니다.
 
-- <a href="mailto:coded1ary@icloud.com">🍀 Email
+- <a href="mailto:coded1ary@icloud.com">🧑🏻‍💻 Email
 - <a href="https://github.com/won4885">🍖 GitHub</a>
 - <a href="https://coded1ary.com">🍙 Blog</a>
-
-<br>
 
 ## About Me
 
 - 추가 예정
 
-<br>
-
 ## Tech Stack
 
 - 추가 예정
 
-<br>
-
 ## Education
 
-- 🧑🏻‍💻 코드스쿼드 Java 백엔드 마스터즈 과정 수료 (2023년 1월 ~ 11월)
+- 🍀 코드스쿼드 Java 백엔드 마스터즈 과정 수료 (2023년 1월 ~ 11월)

@@ -1,5 +1,5 @@
 ---
-title: "🙇🏻 안녕하세요!"
+title: "🙋🏻 안녕하세요!"
 permalink: /about/
 layout: single
 comments: true
@@ -8,11 +8,11 @@ sidebar:
   nav: "categories"
 ---
 
-(수정 예정) 백엔드 개발자 정원준입니다.
+기술 부채를 좋아하는 백엔드 개발자 정원준입니다.
 
 - <a href="mailto:coded1ary@icloud.com">🧑🏻‍💻 Email
-- <a href="https://github.com/won4885">🍖 GitHub</a>
-- <a href="https://coded1ary.com">🍙 Blog</a>
+- <a href="https://github.com/won4885">🐈‍⬛ GitHub</a>
+- <a href="https://coded1ary.com">🧤 Blog</a>
 
 ## About Me
 

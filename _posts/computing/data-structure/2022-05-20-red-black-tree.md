@@ -1,5 +1,5 @@
 ---
-title: "[자료구조] Red Black Tree (레드 블랙 트리)"
+title: "[Data Structure] Red Black Tree (레드 블랙 트리)"
 excerpt: "레드 블랙 트리 정리"
 
 categories:
@@ -14,19 +14,16 @@ sidebar:
   nav: "categories"
 
 date: 2022-05-20
-last_modified_at: 2022-05-20
+last_modified_at: 2023-12-04
 ---
 
-**Red Black Tree의 규칙**
-
- 
+# Red Black Tree
 
 레드 블랙 트리는 자가 균형 이진 탐색 트리로서, AVL 트리처럼 스스로 균형을 잡는 트리입니다. 레드 블랙 트리에서는 다음의 규칙에 따라 정렬하여 균형을 맞춥니다.
 
  <br>
 
-규칙
-
+## 규칙
 
 1. 모든 노드는 빨간색이나 검은색입니다.
 2. 루트는 항상 검은색입니다.
@@ -37,20 +34,17 @@ last_modified_at: 2022-05-20
 
  <br>
 
-균형을 맞추는 방법
+## 균형을 맞추는 방법
 
- 
+1. 이모 노드가 검은색일 경우
+   회전을 합니다. 회전을 하고 나면 부모 노드는 검은색, 두 자식 노드는 빨간색이 되어야 합니다.
 
-1) 이모 노드가 검은색일 경우
-회전을 합니다. 회전을 하고 나면 부모 노드는 검은색, 두 자식 노드는 빨간색이 되어야 합니다.
-
-2) 이모 노드가 빨간색일 경우
-색상 전환을 합니다. 색상 전환을 하고 나면 부모 노드는 빨간색, 두 자식 노드는 검은색이 되어야 합니다.
+2. 이모 노드가 빨간색일 경우
+   색상 전환을 합니다. 색상 전환을 하고 나면 부모 노드는 빨간색, 두 자식 노드는 검은색이 되어야 합니다.
 
 <br>
-<HR>
 
-**레드 블랙 트리**
+## 레드 블랙 트리
 
 <br>
 
@@ -63,13 +57,10 @@ last_modified_at: 2022-05-20
 <br>
 <HR>
 
-**클래스**
-
- 
+## 클래스
 
 레드 블랙 트리 클래스는 다음과 같습니다. 불리언 값을 가진 black로 참이면 검은색, 거짓이면 빨간색을 표시합니다. 그리고 이모 노드를 알아내기 위해 left, right, parent 노드를 가리키는 포인터뿐만 아니라 불리언 값을 가진 isLeftChild를 사용합니다.
 
- 
 ```java
 public class RedBlackTree<K,V> implements RedBlackI<K,V> {
 	Node<K,V> root;
@@ -91,12 +82,8 @@ public class RedBlackTree<K,V> implements RedBlackI<K,V> {
 ```
 
 <br>
-<HR>
 
-
-**add 메소드**
-
- 
+## add 메소드
 
 add 메소드의 동작 방식은 AVL 트리와 동일합니다. 단, isLeftChild가 추가되기 때문에 이를 고려해주어야 합니다.
 
@@ -104,7 +91,6 @@ add 메소드의 동작 방식은 AVL 트리와 동일합니다. 단, isLeftChil
 
 add 메소드에 대한 코드는 다음과 같습니다. 트리가 비어있으면 노드를 추가하고 비어있지 않다면 재귀 add 메소드를 호출합니다.
 
- 
 ```java
 public void add(K key, V value){
 	Node<K,V> node = new Node<K,V>(key, value);
@@ -144,14 +130,10 @@ private void add (Node<K,V> parent, Node<K,V> newNode){
 ```
 
 <br>
-<HR>
 
-**색상 확인 메소드**
-
-
+## 색상 확인 메소드
 
 노드를 트리의 규칙에 맞게 추가한 후, 2-1강에서 배운 레드 블랙 트리의 6가지 규칙을 만족하는지 확인해주어야 합니다.
-
 
 ```java
 public void checkColor(Node<K,V> node){
@@ -198,15 +180,10 @@ public void correctTree(Node<K,V> node){
 ```
 
 <br>
-<HR>
 
-
-**Rotate 메소드**
-
-
+## Rotate 메소드
 
 현재 노드와 부모 노드가 각각 오른쪽 자식인지 왼쪽 자식인지에 따라 필요한 회전이 달라집니다. 각각의 경우에 대해 코딩하면 다음과 같습니다.
-
 
 ```java
 public void rotate(Node<K,V> node){
@@ -238,15 +215,11 @@ public void rotate(Node<K,V> node){
 ```
 
 <br>
-<HR>
 
-**좌측 회전**
-
- 
+## 좌측 회전
 
 레드 블랙 트리에서 좌측 회전을 하는 코드는 다음과 같습니다. 힙 & 트리 기본 1-16강에서 배운 좌측 회전 코드와 유사합니다. 다만, parent 노드를 가리키는 포인터와 isLeftChild 변수를 추가로 사용하기 때문에 이들을 고려해주어야 합니다.
 
- 
 ```java
 // 좌측 회전: 조부모 노드를 부모 노드의 왼쪽 자식 노드 위치로 옮깁니다.
 public void leftRotate (Node<K,V> node){
@@ -268,7 +241,7 @@ public void leftRotate (Node<K,V> node){
 		if(node.isLeftChild) {
 			temp.isLeftChild = true;
 			temp.parent.left = temp;
-		} else {			
+		} else {
 			temp.isLeftChild = false;
 			temp.parent.right = temp;
 		}
@@ -280,14 +253,10 @@ public void leftRotate (Node<K,V> node){
 ```
 
 <br>
-<HR>
 
-**좌측-우측 회전**
-
-
+## 좌측-우측 회전
 
 레드 블랙 트리에서 좌측-우측 회전을 하는 코드는 다음과 같습니다. 힙 & 트리 기본 1-16강에서 배운 내용과 동일합니다.
-
 
 ```java
 // 좌측 회전 후 우측 회전
@@ -298,15 +267,10 @@ public void leftRightRotate(Node<K,V> node){
 ```
 
 <br>
-<HR>
 
-
-높이
-
-
+## 높이
 
 간단한 재귀 메소드를 이용해 트리의 높이를 구할 수 있습니다.
-
 
 ```java
 public int height() {
@@ -327,14 +291,10 @@ public int height(Node<K,V> node) {
 ```
 
 <br>
-<HR>
 
-**검은색 노드 개수**
-
-
+## 검은색 노드 개수
 
 재귀 메소드를 이용해 레드 블랙 트리의 검은색 노드의 개수를 구할 수 있습니다. 대략적으로 코드를 작성하면 다음과 같습니다.
-
 
 ```java
 public int blackNodes(Node<K,V> node) {
@@ -355,4 +315,6 @@ public int blackNodes(Node<K,V> node) {
 
 <br>
 
-[**Source**](https://www.boostcourse.org/cs204/joinLectures/145114)
+## Reference
+
+- [BoostCourse](https://www.boostcourse.org/cs204/joinLectures/145114)

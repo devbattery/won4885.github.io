@@ -31,17 +31,20 @@ last_modified_at: 2023-12-07
 
 def is_valid(installed: set):
     for x, y, a in installed:
-        # 기둥일 때
+        # 기둥은 바닥 위에 있거나,
+        # 보의 한쪽 끝 부분 위에 있거나,
+        # 다른 기둥 위에 있어야 함
         if a == 0:
-            # y != 0: 기둥이 바닥에 있지 않고,
-            # (x, y - 1, 0) not in installed: 바로 아래에 기둥이 없고,
+            # y == 0: 기둥이 바닥에 있지 않고,
             # ((x, y, 1) not in installed and (x - 1, y, 1) not in installed): 양 옆에 보가 둘 다 없으면
+            # (x, y - 1, 0) not in installed: 바로 아래에 기둥이 없고,
             # 틀린 조건이기 때문에 False 반환
             if (y != 0) and (
-                    (x, y - 1, 0) not in installed) and (
-                    (x, y, 1) not in installed and (x - 1, y, 1) not in installed):
+                    (x, y, 1) not in installed and (x - 1, y, 1) not in installed) and (
+                    (x, y - 1, 0) not in installed):
                 return False
-        # 보일 때
+        # 보는 한쪽 끝 부분이 기둥 위에 있거나,
+        # 양쪽 끝 부분이 다른 보와 동시에 연결되어 있어야 함
         elif a == 1:
             # ((x, y - 1, 0) not in installed and (x + 1, y - 1, 0) not in installed): 바로 아래의 양 옆에 기둥이 둘 다 없고,
             # ((x - 1, y, 1) not in installed or (x + 1, y, 1) not in installed): 양 옆에 보가 하나라도 없으면

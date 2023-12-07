@@ -35,7 +35,7 @@ def is_valid(installed: set):
         # 보의 한쪽 끝 부분 위에 있거나,
         # 다른 기둥 위에 있어야 함
         if a == 0:
-            # y == 0: 기둥이 바닥에 있지 않고,
+            # y != 0: 기둥이 바닥에 있지 않고,
             # ((x, y, 1) not in installed and (x - 1, y, 1) not in installed): 양 옆에 보가 둘 다 없으면
             # (x, y - 1, 0) not in installed: 바로 아래에 기둥이 없고,
             # 틀린 조건이기 때문에 False 반환

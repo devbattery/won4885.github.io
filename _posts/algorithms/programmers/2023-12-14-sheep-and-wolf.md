@@ -14,7 +14,7 @@ sidebar:
   nav: "categories"
 
 date: 2023-12-14
-last_modified_at: 2023-12-14
+last_modified_at: 2023-12-19
 ---
 
 - 재귀 dfs 탐색 능력을 키우는 게 먼저인 거 같음

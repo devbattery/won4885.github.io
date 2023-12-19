@@ -23,6 +23,8 @@ last_modified_at: 2023-12-09
 
 ## Solution
 
+### Python
+
 ```python
 import sys
 
@@ -82,7 +84,6 @@ class BinaryTree:
 
 
 def solution(nodeinfo):
-    # 이건 왜 안 될까?
     new_nodeinfo = []
     for i, node in enumerate(nodeinfo):
         current_x, current_y = node[0], node[1]
@@ -106,7 +107,7 @@ def solution(nodeinfo):
 print(solution([[5, 3], [11, 5], [13, 3], [3, 5], [6, 1], [1, 3], [8, 6], [7, 2], [2, 2]]))
 ```
 
-<br>
+### Java
 
 ```java
 package programmers.sully.week38;

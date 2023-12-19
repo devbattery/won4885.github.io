@@ -1,5 +1,5 @@
 ---
-title: "[Programmers] 기둥과 보 설치 (Python)"
+title: "[Programmers] 기둥과 보 설치 (Python, Java)"
 excerpt: "algorithms, python, java, 2020 KAKAO BLIND RECRUITMENT"
 
 categories:
@@ -23,6 +23,8 @@ last_modified_at: 2023-12-12
 <br>
 
 ## Solution
+
+### Python
 
 ```python
 #  build_frame: [x, y, a, b]
@@ -86,7 +88,7 @@ print(solution(5, [[0, 0, 0, 1], [2, 0, 0, 1], [4, 0, 0, 1], [0, 1, 1, 1], [1, 1
                    [2, 0, 0, 0], [1, 1, 1, 0], [2, 2, 0, 1]]))
 ```
 
-<br>
+### Java
 
 ```java
 package programmers.sully.week38;

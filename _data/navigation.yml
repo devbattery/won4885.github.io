@@ -14,10 +14,6 @@ main:
 
 # sidebar navigation (categories)
 categories:
-  - title: "🤔 Retrospective"
-    children:
-      - title: "2023-year"
-        url: /2023-year/
   - title: "📈 Algorithm"
     children:
       - title: "Recap"

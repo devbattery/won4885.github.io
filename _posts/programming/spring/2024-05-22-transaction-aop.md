@@ -13,8 +13,8 @@ toc_sticky: true
 sidebar:
   nav: "categories"
 
-date: 2024-05-23
-last_modified_at: 2024-05-23
+date: 2024-05-22
+last_modified_at: 2024-05-22
 ---
 
 # 트랜잭션 AOP
